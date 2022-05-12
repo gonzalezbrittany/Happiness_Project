@@ -2,6 +2,8 @@
 
 ## Segment 1
 
+### Presentation
+
 **Topic:** World Happiness Report 2021
 
 **Reason why we selected our topic:**  Our team explored various data sets such as Olympic data, Zilliow housing data, NBA player statistics and the World Happiness data.  
@@ -21,6 +23,36 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 
 **At least one branch for each team member:**
 Completed May 10, 2022
+
+
+## Checklist (Segment 1)
+
+### Presentation
+ - Select Topic
+ - Reason for selected topic
+ - Descripiton of the source of the data
+ - Questions we hope to answer with the data
+
+### GitHub Repository
+ -  **Main Branch**
+     *  Main branch includes README.md
+ -  **README.md**
+     *  README.md includes description of communication protocols
+ -  **Individual Branches**
+     *  At least one branch for Each team member
+     *  Each team member has at least four commits for the duration of the first segment
+
+### Machine Learning Model
+ -  Takes in data from the provisional database
+ -  Outputs label for input data
+
+### Database Integration
+  - Sample data that mimics the expected final database structure or schema
+  - Draft machine learning model is connected to the provisional database
+
+### Dashboard
+ - <Nothing>
+
 
 
 ## Final Deliverable Outline
