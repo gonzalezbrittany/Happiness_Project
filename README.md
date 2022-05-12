@@ -28,18 +28,18 @@ Completed May 10, 2022
 ## Checklist (Segment 1)
 
 ### Presentation
- - ~~Select Topic
- - ~~Reason for selected topic
- - ~~Descripiton of the source of the data
+ - ~~Select Topic~~
+ - ~~Reason for selected topic~~
+ - ~~Descripiton of the source of the data~~
  - Questions we hope to answer with the data
 
 ### GitHub Repository
  -  **Main Branch**
-     *  ~~Main branch includes README.md
+     *  ~~Main branch includes README.md~~
  -  **README.md**
-     *  ~~README.md includes description of communication protocols
+     *  ~~README.md includes description of communication protocols~~
  -  **Individual Branches**
-     *  ~~At least one branch for Each team member
+     *  ~~At least one branch for Each team member~~
      *  Each team member has at least four commits for the duration of the first segment
 
 ### Machine Learning Model
@@ -47,7 +47,7 @@ Completed May 10, 2022
  -  Outputs label for input data
 
 ### Database Integration
-  - ~~Sample data that mimics the expected final database structure or schema
+  - ~~Sample data that mimics the expected final database structure or schema~~
   - Draft machine learning model is connected to the provisional database
 
 ### Dashboard
