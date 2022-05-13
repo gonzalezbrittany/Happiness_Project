@@ -48,7 +48,7 @@ Completed May 10, 2022
      *  Each team member has at least four commits for the duration of the first segment
 
 ### Machine Learning Model
- -  Takes in data from the provisional database
+ - ~~Takes in data from the provisional database~~
  -  Outputs label for input data
 
 ### Database Integration
