@@ -31,6 +31,9 @@ Completed May 10, 2022
  - World Happiness Data: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
  - Covid Data:  https://ourworldindata.org/covid-cases
 
+**Presentation Decisions:**
+ - Dashboard will be created using Tableau
+ - Presentation will be done in Google Slides with collaboration through Gmail
 
 
 ## Checklist (Segment 1)
