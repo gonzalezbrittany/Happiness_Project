@@ -24,6 +24,11 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 **At least one branch for each team member:**
 Completed May 10, 2022
 
+**Data Sources:**
+ - World Happiness Data: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
+ - Covid Data:  https://ourworldindata.org/covid-cases
+
+
 
 ## Checklist (Segment 1)
 
