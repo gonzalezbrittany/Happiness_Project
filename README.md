@@ -52,7 +52,7 @@ Completed May 10, 2022
 
 ### Machine Learning Model
  - ~~Takes in data from the provisional database~~
- -  ~~Outputs label for input data
+ -  ~~Outputs label for input data~~
 
 ### Database Integration
   - ~~Sample data that mimics the expected final database structure or schema~~
