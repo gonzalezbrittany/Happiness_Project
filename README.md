@@ -53,7 +53,7 @@ Completed May 10, 2022
 
 ### Database Integration
   - ~~Sample data that mimics the expected final database structure or schema~~
-  - Draft machine learning model is connected to the provisional database
+  - ~~Draft machine learning model is connected to the provisional database~~
 
 ### Dashboard
  - <Nothing>
