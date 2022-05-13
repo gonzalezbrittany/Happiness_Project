@@ -16,7 +16,10 @@ The World Happiness Report 2021 focuses on how people all over the world have co
 
 
 **Questions they hope to answer with the data:**
-HELP!!!!!
+By applying the most advanced techniques of Machine Learning, it would be possible to define the most important factors and measure quantitatively their contribution to one’s happiness.
+
+Our team is hoping to apply advanced techniques with Machine Learning to define the most important factors to measure and compare and enhance countries happiness scores.
+
 
 **Description of the communication protocols:**
 Our team has agreed to use Slack direct messages to communicate.  All members are aware and active on the message string that was created May 5, 2022.
