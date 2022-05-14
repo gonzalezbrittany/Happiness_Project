@@ -1,4 +1,4 @@
-# Happiness_Project
+# Happiness Project
 
 ## Segment 1
 
@@ -31,6 +31,9 @@ Completed May 10, 2022
  - World Happiness Data: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
  - Covid Data:  https://ourworldindata.org/covid-cases
 
+**Presentation Decisions:**
+ - Dashboard will be created using Tableau
+ - Presentation will be done in Google Slides with collaboration through Gmail
 
 
 ## Checklist (Segment 1)
@@ -39,7 +42,7 @@ Completed May 10, 2022
  - ~~Select Topic~~
  - ~~Reason for selected topic~~
  - ~~Descripiton of the source of the data~~
- - Questions we hope to answer with the data
+ - ~~Questions we hope to answer with the data~~
 
 ### GitHub Repository
  -  **Main Branch**
@@ -48,11 +51,11 @@ Completed May 10, 2022
      *  ~~README.md includes description of communication protocols~~
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
-     *  Each team member has at least four commits for the duration of the first segment
+     *  ~~Each team member has at least four commits for the duration of the first segment~~
 
 ### Machine Learning Model
  - ~~Takes in data from the provisional database~~
- -  Outputs label for input data
+ - ~~Outputs label for input data~~
 
 ### Database Integration
   - ~~Sample data that mimics the expected final database structure or schema~~
@@ -67,13 +70,11 @@ Completed May 10, 2022
 - Project Overview
 - Usage and installation instructions of libraries/tools that are used
 - Intro (business question and motivation)
--  Group by world geographic regions: 
+- Group by world geographic regions: 
 	* Which region had the highest happiness scores overall during 2021? (Bar Graph?)
 	* What variables have the strongest impact on happiness scores for each region? (correlation plot)
 	* How has the happiness score changed overtime for each region? (plot mean, maybe line plot?)
-  * Is there a way to predict happiness scores based on the 7 variables provided? If so, what model can be used to accurately predict happiness? (Try Multiple Regression,   Decision Tree and Random Forest) 
-
-
+  	* Is there a way to predict happiness scores based on the 7 variables provided? If so, what model can be used to accurately predict happiness? (Try Multiple Regression, Decision Tree and Random Forest) 
 - Data pre-processing/gathering steps (cleaning and manipulation)
 - Visuals and explanations
 - Machine Learning / Deep Learning Modeling
