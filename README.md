@@ -36,6 +36,45 @@ Completed May 10, 2022
  - Presentation will be done in Google Slides with collaboration through Gmail
 
 
+## Checklist (Segment 2)
+
+### Presentation
+ - ~~Select Topic~~
+ - ~~Reason for selected topic~~
+ - ~~Descripiton of the source of the data~~
+ - ~~Questions we hope to answer with the data~~
+ - Description of the analysis phase of the project
+
+### GitHub Repository
+ -  **Main Branch**
+     *  All code necessary to perform exploratory analysis
+     *  some code necessary to complete the machine learning portion of the project
+ -  **README.md**
+     *  ~~README.md includes description of communication protocols~~
+     *  Outline of the project (may include images but shold be easy to follow)
+ -  **Individual Branches**
+     *  ~~At least one branch for Each team member~~
+     *  ~~Each team member has at least four commits for the duration of the first segment~~
+
+### Machine Learning Model
+ - Description of preliminary data preprocessing
+ - Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+ - Description of how data was split into training and testing sets
+ - Explanation of model choice, including limitations and benefits
+
+### Database Integration
+  - Database stores static data for use during the project
+  - Database interfaces with the project in some format (e.g., scraping updates the database)
+  - Includes at least two tables (or collections, if using MongoDB)
+  - Includes at least one join using the database language (not including any joins in Pandas)
+  - Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+### Dashboard
+ - Storyboard on a Google Slide(s)
+ - Description of the tool(s) that will be used to create the final dashboard
+ - Description of interactive element(s)
+
+
 ## Checklist (Segment 1)
 
 ### Presentation
