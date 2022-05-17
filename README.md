@@ -50,11 +50,11 @@ Completed May 10, 2022
      *  All code necessary to perform exploratory analysis
      *  some code necessary to complete the machine learning portion of the project
  -  **README.md**
-     *  ~~README.md includes description of communication protocols~~
-     *  Outline of the project (may include images but shold be easy to follow)
+     *  ~~includes description of communication protocols~~
+     *  Includes outline of the project (may include images but shold be easy to follow)
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
-     *  ~~Each team member has at least four commits for the duration of the first segment~~
+     *  Each team member has at least four commits for the duration of the second segment
 
 ### Machine Learning Model
  - Description of preliminary data preprocessing
