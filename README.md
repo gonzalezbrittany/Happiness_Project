@@ -72,7 +72,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
   - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
 ### Dashboard
- - Storyboard on a Google Slide(s)
+ - Storyboard on a Google Slide(s): https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing
  - Description of the tool(s) that will be used to create the final dashboard
  - Description of interactive element(s)
 
