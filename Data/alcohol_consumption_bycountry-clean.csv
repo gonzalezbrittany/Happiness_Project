@@ -1,0 +1,186 @@
+Country_Name,year,Regional_Indicator,alcohol_consumption_both_gender,alcohol_consumption_male,alcohol_consumption_female
+Latvia,2019,Central and Eastern Europe,13.19,21.61,6.31
+Moldova,2019,Commonwealth of Independent States,12.85,20.61,5.89
+Germany,2019,Western Europe,12.79,19.71,6.15
+Lithuania,2019,Central and Eastern Europe,12.78,20.6,6.3
+Ireland,2019,Western Europe,12.75,19.38,6.34
+Spain,2019,Western Europe,12.67,19.94,5.76
+Uganda,2019,Sub-Saharan Africa,12.48,20.61,4.94
+Bulgaria,2019,Central and Eastern Europe,12.46,19.86,5.59
+Luxembourg,2019,Western Europe,12.45,18.74,6.08
+Romania,2019,Central and Eastern Europe,12.34,19.5,5.68
+Andorra,2019,Southwest Europe,12.26,18.58,5.74
+Montenegro,2019,Central and Eastern Europe,12.24,19.51,5.3
+France,2019,Western Europe,12.23,19.21,5.83
+Slovenia,2019,Central and Eastern Europe,12.11,18.68,5.67
+Portugal,2019,Western Europe,12.09,19.51,5.59
+Laos,2019,Southeast Asia,12.08,19.11,5.09
+Tanzania,2019,Sub-Saharan Africa,12.04,19.89,4.36
+Austria,2019,Western Europe,11.93,18.42,5.76
+Poland,2019,Central and Eastern Europe,11.89,18.65,5.65
+United Kingdom,2019,Western Europe,11.45,17.74,5.4
+Switzerland,2019,Western Europe,11.23,17.18,5.45
+Hungary,2019,Central and Eastern Europe,11.07,17.66,5.24
+Slovakia,2019,Central and Eastern Europe,11.06,17.26,5.3
+Burkina Faso,2019,Sub-Saharan Africa,11.05,18.5,3.85
+Belarus,2019,Commonwealth of Independent States,10.96,17.93,5.13
+Cook Islands,2019,Southern Pacific Ocean,10.94,17.95,4.36
+Cyprus,2019,Western Europe,10.8,16.92,4.76
+Belgium,2019,Western Europe,10.8,16.7,5.13
+Estonia,2019,Central and Eastern Europe,10.75,17.35,5.06
+New Zealand,2019,North America and ANZ,10.69,16.46,5.23
+Finland,2019,Western Europe,10.65,16.56,4.99
+Greece,2019,Western Europe,10.5,16.72,4.6
+Russia,2019,Commonwealth of Independent States,10.5,17.99,4.31
+Barbados,2019,Latin America and Caribbean,10.37,16.95,4.35
+Australia,2019,North America and ANZ,10.36,15.72,5.11
+Denmark,2019,Western Europe,10.13,15.58,4.8
+Japan,2019,East Asia,10.09,15.58,4.93
+United States,2019,North America and ANZ,9.97,15.44,4.69
+Niue,2019,Southern Pacific Ocean,9.93,16.04,3.77
+Netherlands,2019,Western Europe,9.67,14.9,4.54
+Saint Lucia,2019,Latin America and Caribbean,9.59,15.45,3.97
+Georgia,2019,Commonwealth of Independent States,9.47,15.61,4.11
+Argentina,2019,Latin America and Caribbean,9.45,14.66,4.64
+South Africa,2019,Sub-Saharan Africa,9.45,15.74,3.46
+Antigua and Barbuda,2019,Latin America and Caribbean,9.4,15.09,4.25
+Iceland,2019,Western Europe,9.21,14.03,4.39
+Sweden,2019,Western Europe,9.04,13.85,4.27
+Grenada,2019,Latin America and Caribbean,8.96,14.25,3.64
+Chile,2019,Latin America and Caribbean,8.95,13.74,4.36
+Serbia,2019,Central and Eastern Europe,8.85,14.09,3.93
+Seychelles,2019,Africa,8.84,13.41,4.02
+Canada,2019,North America and ANZ,8.81,13.73,4.01
+Eswatini,2019,Southern Africa,8.78,14.78,3.26
+Croatia,2019,Central and Eastern Europe,8.73,13.96,3.99
+Thailand,2019,Southeast Asia,8.5,13.75,3.61
+South Korea,2019,East Asia,8.45,12.76,4.17
+Ukraine,2019,Commonwealth of Independent States,8.34,14.0,3.65
+Malta,2019,Western Europe,8.27,12.88,3.69
+Gabon,2019,Sub-Saharan Africa,8.08,12.24,3.7
+Italy,2019,Western Europe,8.01,12.74,3.61
+Rwanda,2019,Sub-Saharan Africa,7.96,13.11,3.11
+Vietnam,2019,Southeast Asia,7.93,12.84,3.19
+Cambodia,2019,Southeast Asia,7.84,12.9,3.21
+Angola,2019,Southern Africa,7.83,12.39,3.48
+Bosnia and Herzegovina,2019,Central and Eastern Europe,7.81,12.95,2.96
+Panama,2019,Latin America and Caribbean,7.77,12.23,3.36
+Burundi,2019,Sub-Saharan Africa,7.45,12.22,2.89
+Suriname,2019,South America,7.4,11.74,3.1
+Brazil,2019,Latin America and Caribbean,7.32,11.65,3.22
+Dominica,2019,Latin America and Caribbean,7.23,11.53,2.9
+Saint Vincent and the Grenadines,2019,Latin America and Caribbean,7.15,11.29,2.87
+Norway,2019,Western Europe,7.14,10.8,3.45
+Philippines,2019,Southeast Asia,7.02,11.22,2.87
+Paraguay,2019,Latin America and Caribbean,7.01,10.96,2.94
+Equatorial Guinea,2019,Central Africa,6.92,9.63,3.12
+Uruguay,2019,Latin America and Caribbean,6.92,10.82,3.38
+Albania,2019,Central and Eastern Europe,6.82,11.02,2.53
+Peru,2019,Latin America and Caribbean,6.78,10.41,3.24
+Dominican Republic,2019,Latin America and Caribbean,6.68,10.62,2.8
+Botswana,2019,Sub-Saharan Africa,6.61,11.1,2.61
+Trinidad and Tobago,2019,Latin America and Caribbean,6.52,10.24,2.94
+North Macedonia,2019,Central and Eastern Europe,6.43,10.36,2.54
+Belize,2019,Central America,6.37,10.18,2.65
+Saint Kitts and Nevis,2019,Latin America and Caribbean,6.34,10.01,2.78
+Cuba,2019,Latin America and Caribbean,6.26,9.97,2.64
+Nigeria,2019,Sub-Saharan Africa,6.19,9.84,2.49
+China,2019,East Asia,6.04,9.37,2.6
+Mongolia,2019,East Asia,5.9,9.23,2.72
+Sao Tome and Principe,2019,Central Africa,5.8,9.15,2.49
+India,2019,South Asia,5.61,9.06,1.89
+Guinea-Bissau,2019,Western Africa,5.54,9.32,2.09
+Cameroon,2019,Sub-Saharan Africa,5.52,8.76,2.32
+Colombia,2019,Latin America and Caribbean,5.45,8.84,2.27
+Liberia,2019,Sub-Saharan Africa,5.37,8.58,2.2
+Guyana,2019,Latin America and Caribbean,5.33,8.57,2.1
+Sierra Leone,2019,Sub-Saharan Africa,5.31,9.19,1.47
+Lesotho,2019,Sub-Saharan Africa,5.08,8.65,1.67
+Nicaragua,2019,Latin America and Caribbean,5.07,8.31,2.02
+Mexico,2019,Latin America and Caribbean,5.05,8.13,2.18
+Kazakhstan,2019,Commonwealth of Independent States,5.0,8.33,2.02
+Kyrgyzstan,2019,Commonwealth of Independent States,4.85,8.38,1.51
+Bahamas,2019,Latin America and Caribbean,4.8,7.66,2.16
+Mauritius,2019,Sub-Saharan Africa,4.78,7.67,2.0
+Armenia,2019,Commonwealth of Independent States,4.67,7.7,2.14
+Zimbabwe,2019,Sub-Saharan Africa,4.52,7.94,1.62
+Zambia,2019,Sub-Saharan Africa,4.46,7.26,1.79
+Israel,2019,Middle East and North Africa,4.38,6.84,2.02
+Nauru,2019,South Pacific,4.18,7.07,1.46
+Jamaica,2019,Latin America and Caribbean,4.16,6.71,1.69
+North Korea,2019,East Asia,4.16,6.89,1.61
+El Salvador,2019,Latin America and Caribbean,4.09,6.91,1.75
+Malawi,2019,Sub-Saharan Africa,4.08,6.76,1.56
+Costa Rica,2019,Latin America and Caribbean,4.07,6.49,1.68
+Honduras,2019,Latin America and Caribbean,3.93,6.34,1.57
+Bolivia,2019,Latin America and Caribbean,3.91,6.0,1.84
+United Arab Emirates,2019,Middle East and North Africa,3.85,4.97,0.87
+Fiji,2019,South Pacific,3.68,6.08,1.23
+Venezuela,2019,Latin America and Caribbean,3.56,5.72,1.51
+Gambia,2019,Sub-Saharan Africa,3.36,5.73,1.09
+Ecuador,2019,Latin America and Caribbean,3.27,5.01,1.56
+Namibia,2019,Sub-Saharan Africa,3.15,5.3,1.2
+Turkmenistan,2019,Commonwealth of Independent States,3.09,5.26,1.03
+Ivory Coast,2019,Sub-Saharan Africa,3.04,4.83,1.19
+Haiti,2019,Latin America and Caribbean,3.02,4.96,1.19
+Sri Lanka,2019,South Asia,2.87,4.75,1.19
+Samoa,2019,South Pacific,2.82,4.58,0.93
+Maldives,2019,South Asia,2.78,3.95,0.57
+Ghana,2019,Sub-Saharan Africa,2.78,4.37,1.16
+Mozambique,2019,Sub-Saharan Africa,2.69,4.53,1.04
+Togo,2019,Sub-Saharan Africa,2.66,4.25,1.1
+Uzbekistan,2019,Commonwealth of Independent States,2.61,4.48,0.79
+Micronesia,2019,Western Pacific ,2.51,4.14,0.85
+Kiribati,2019,Central Pacific,2.32,3.97,0.8
+Benin,2019,Sub-Saharan Africa,2.23,3.59,0.9
+Ethiopia,2019,Sub-Saharan Africa,2.2,3.66,0.78
+Kenya,2019,Sub-Saharan Africa,2.15,3.51,0.83
+Myanmar,2019,Southeast Asia,2.14,3.57,0.85
+Papua New Guinea,2019,Oceania,2.12,3.49,0.72
+Eritrea,2019,Eastern jAfrica,2.11,3.52,0.73
+Vanuatu,2019,South Pacific,2.1,3.48,0.73
+Tunisia,2019,Middle East and North Africa,2.04,3.61,0.53
+Singapore,2019,Southeast Asia,2.0,2.92,0.99
+Madagascar,2019,Sub-Saharan Africa,1.98,3.22,0.77
+Turkey,2019,Middle East and North Africa,1.77,3.12,0.48
+Solomon Islands,2019,South Pacific,1.74,2.87,0.59
+Central African Republic,2019,Central Africa,1.71,2.76,0.71
+Guatemala,2019,Latin America and Caribbean,1.63,2.63,0.69
+Lebanon,2019,Middle East and North Africa,1.53,2.58,0.49
+Qatar,2019,Middle East  ,1.51,1.81,0.38
+Tuvalu,2019,Central Pacific,1.31,2.26,0.45
+Mali,2019,Sub-Saharan Africa,1.31,2.26,0.39
+Chad,2019,Sub-Saharan Africa,1.26,2.07,0.46
+Comoros,2019,Sub-Saharan Africa,1.15,2.0,0.3
+Bahrain,2019,Middle East and North Africa,1.13,1.54,0.32
+DR Congo,2019,Central Africa,1.1,1.76,0.46
+Guinea,2019,Sub-Saharan Africa,1.09,1.94,0.36
+Iran,2019,Middle East and North Africa,1.01,1.76,0.25
+Azerbaijan,2019,Commonwealth of Independent States,0.98,1.67,0.32
+Malaysia,2019,Southeast Asia,0.93,1.48,0.35
+Oman,2019,Middle East  ,0.92,1.22,0.23
+Tajikistan,2019,Commonwealth of Independent States,0.88,1.49,0.26
+Senegal,2019,Sub-Saharan Africa,0.73,1.3,0.22
+Algeria,2019,Middle East and North Africa,0.63,1.09,0.17
+Nepal,2019,South Asia,0.62,1.1,0.25
+Timor-Leste,2019,Southeast Asia,0.53,0.84,0.21
+Jordan,2019,Middle East and North Africa,0.52,0.89,0.14
+Niger,2019,Sub-Saharan Africa,0.52,0.89,0.15
+Morocco,2019,Middle East and North Africa,0.49,0.87,0.13
+Brunei,2019,Southeast Asia,0.46,0.68,0.21
+Tonga,2019,South Pacific,0.43,0.73,0.15
+Iraq,2019,Middle East and North Africa,0.37,0.64,0.1
+Djibouti,2019,East Africa,0.36,0.6,0.093
+Pakistan,2019,South Asia,0.31,0.52,0.095
+Indonesia,2019,Southeast Asia,0.22,0.37,0.063
+Bhutan,2019,Central Asia,0.21,0.33,0.077
+Syria,2019,Western Asia,0.19,0.32,0.047
+Egypt,2019,Middle East and North Africa,0.14,0.24,0.037
+Yemen,2019,Middle East and North Africa,0.034,0.059,0.009
+Libya,2019,Middle East and North Africa,0.027,0.047,0.007
+Afghanistan,2019,South Asia,0.013,0.022,0.003
+Kuwait,2019,Middle East and North Africa,0.0,0.0,0.0
+Mauritania,2019,Sub-Saharan Africa,0.0,0.0,0.0
+Somalia,2019,East Africa,0.0,0.0,0.0
+Saudi Arabia,2019,Middle East and North Africa,0.0,0.0,0.0
+Bangladesh,2019,South Asia,0.0,0.0,0.0
