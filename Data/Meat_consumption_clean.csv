@@ -1,188 +1,188 @@
-Country,Meat consumption,ISO-code
-Afghanistan,17.3,AFG
-Algeria,18.3,DZA
-American Samoa,24.9,ASM
-Angola,19.0,AGO
-Antigua and Barbuda,56.0,ATG
-Argentina,79.7,ARG
-Armenia,27.7,ARM
-Australia,108.2,AUS
-Austria,94.1,AUT
-Azerbaijan,15.9,AZE
-Bahrain,70.7,BHR
-Bangladesh,3.1,BGD
-Barbados,88.7,BRB
-Belarus,58.6,BLR
-Belgium,86.1,BEL
-Belize,74.7,BLZ
-Benin,16.2,BEN
-Bhutan,3.0,BTN
-Bolivia,50.0,BOL
-Bosnia and Herzegovina,21.4,BIH
-Botswana,27.3,BWA
-Brazil,82.4,BRA
-Bulgaria,69.4,BGR
-Burkina Faso,11.2,BFA
-Burundi,3.5,BDI
-Cambodia,13.9,KHM
-Cameroon,14.4,CMR
-Canada,108.1,CAN
-Cape Verde,26.3,CPV
-Central African Republic,28.0,CAF
-Chad,14.3,TCD
-Chile,66.4,CHL
-China,52.4,CHN
-Colombia,33.9,COL
-Comoros,7.6,COM
-Costa Rica,40.4,CRI
-Croatia,49.9,HRV
-Cuba,32.2,CUB
-Cyprus,131.3,CYP
-Czech Republic,77.3,CZE
-Democratic Republic of the Congo,4.8,COD
-Denmark,145.9,DNK
-Djibouti,17.1,DJI
-Dominica,67.1,DMA
-Dominican Republic,37.8,DOM
-East Timor,41.3,TLS
-Ecuador,45.0,ECU
-Egypt,22.5,EGY
-El Salvador,21.4,SLV
-Eritrea,7.7,ERI
-Estonia,67.4,EST
-Ethiopia,7.9,ETH
-Fiji,39.1,FJI
-Finland,67.4,FIN
-FR Yugoslavia,77.6,
-France,101.1,FRA
-French Guiana,13.2,GUF
-French Polynesia,112.2,PYF
-Gabon,46.0,GAB
-Georgia,26.0,GEO
-Germany,82.1,DEU
-Ghana,9.9,GHA
-Greece,78.7,GRC
-Greenland,63.4,GRL
-Grenada,97.0,GRD
-Guadeloupe,12.7,GLP
-Guam,52.6,GUM
-Guatemala,23.8,GTM
-Guinea,6.5,GIN
-Guinea-Bissau,13.0,GIN
-Guyana,31.8,GUY
-Haiti,15.3,HTI
-Honduras,24.7,HND
-Hungary,100.7,HUN
-Iceland,84.8,ISL
-India,5.2,IND
-Indonesia,8.3,IDN
-Iran,23.1,IRN
-Iraq,18.2,IRQ
-Ireland,106.3,IRL
-Israel,97.1,ISR
-Italy,90.4,ITA
-Ivory Coast,11.3,CIV
-Jamaica,56.8,JAM
-Japan,45.9,JPN
-Jordan,29.8,JOR
-Kazakhstan,44.8,KAZ
-Kenya,14.3,KEN
-Kiribati,32.1,KIR
-Kuwait,60.2,KWT
-Kyrgyzstan,39.0,KGZ
-Laos,15.0,LAO
-Latvia,45.7,LVA
-Lebanon,63.1,LBN
-Lesotho,15.4,LSO
-Liberia,7.9,LBR
-Libya,28.6,LBY
-Lithuania,49.5,LTU
-Luxembourg,141.7,LUX
-Madagascar,17.6,MDG
-Malawi,5.1,MWI
-Malaysia,50.9,MYS
-Maldives,16.6,MDV
-Mali,19.0,MLI
-Malta,86.9,MLT
-Martinique,13.9,MTQ
-Mauritania,29.9,MRT
-Mauritius,39.6,MUS
-Mexico,58.6,MEX
-Moldova,22.7,MDA
-Mongolia,108.8,MNG
-Morocco,20.6,MAR
-Mozambique,5.6,MOZ
-Myanmar,10.7,MMR
-Namibia,34.0,NAM
-Nepal,10.0,NPL
-Netherlands,89.3,NLD
-New Caledonia,76.6,NCL
-New Zealand,142.1,NZL
-Nicaragua,14.9,NIC
-Niger,11.2,NER
-Nigeria,8.6,NGA
-North Korea,10.8,PRK
-North Macedonia,35.4,MKD
-Norway,61.7,NOR
-Oman,49.8,OMN
-Pakistan,12.3,PAK
-Panama,54.5,PAN
-Papua New Guinea,73.0,PNG
-Paraguay,70.3,PRY
-Peru,34.5,PER
-Philippines,31.1,PHL
-Poland,78.1,POL
-Portugal,91.1,PRT
-Qatar,90.5,QAT
-Republic of the Congo,13.3,COG
-Romania,54.5,ROU
-Russia,51.0,RUS
-Rwanda,4.4,RWA
-Saint Kitts and Nevis,99.3,KNA
-Saint Lucia,124.1,LCA
-Saint Vincent and the Grenadines,79.1,VCT
-Samoa,82.6,WSM
-Sao Tome and Principe,9.6,STP
-Saudi Arabia,44.6,SAU
-Senegal,17.7,SEN
-Seychelles,51.1,SYC
-Sierra Leone,6.1,SLE
-Singapore,71.1,SGP
-Slovakia,67.4,SVK
-Slovenia,88.0,SVN
-Solomon Islands,9.7,SLB
-Somalia,9.5,SOM
-South Africa,39.0,ZAF
-South Korea,48.0,KOR
-South Sudan,13.1,SSD
-Spain,118.6,ESP
-Sri Lanka,6.6,LKA
-Sudan,21.0,SDN
-Suriname,40.3,SUR
-Sweden,76.1,SWE
-Switzerland,72.9,CHE
-Syria,21.2,SYR
-Tajikistan,8.7,TJK
-Tanzania,10.0,TZA
-Thailand,27.9,THA
-The Bahamas,123.6,BHS
-The Gambia,5.2,GMB
-Togo,8.5,TGO
-Trinidad and Tobago,57.8,TTO
-Tunisia,25.5,TUN
-Turkey,19.3,TUR
-Turkmenistan,41.7,TKM
-Uganda,11.7,UGA
-Ukraine,32.3,UKR
-United Arab Emirates,74.4,ARE
-United Kingdom,79.6,GBR
-United States,124.8,USA
-Uruguay,98.6,URY
-Uzbekistan,20.7,UZB
-Vanuatu,32.6,VUT
-Venezuela,56.6,VEN
-Vietnam,28.6,VNM
-Virgin Islands,6.6,VIR
-Yemen,14.7,YEM
-Zambia,11.9,ZMB
-Zimbabwe,15.2,ZWE
+Country_Name,Meat_Consumption
+Afghanistan,17.3
+Algeria,18.3
+American Samoa,24.9
+Angola,19.0
+Antigua and Barbuda,56.0
+Argentina,79.7
+Armenia,27.7
+Australia,108.2
+Austria,94.1
+Azerbaijan,15.9
+Bahrain,70.7
+Bangladesh,3.1
+Barbados,88.7
+Belarus,58.6
+Belgium,86.1
+Belize,74.7
+Benin,16.2
+Bhutan,3.0
+Bolivia,50.0
+Bosnia and Herzegovina,21.4
+Botswana,27.3
+Brazil,82.4
+Bulgaria,69.4
+Burkina Faso,11.2
+Burundi,3.5
+Cambodia,13.9
+Cameroon,14.4
+Canada,108.1
+Cape Verde,26.3
+Central African Republic,28.0
+Chad,14.3
+Chile,66.4
+China,52.4
+Colombia,33.9
+Comoros,7.6
+Costa Rica,40.4
+Croatia,49.9
+Cuba,32.2
+Cyprus,131.3
+Czech Republic,77.3
+Democratic Republic of the Congo,4.8
+Denmark,145.9
+Djibouti,17.1
+Dominica,67.1
+Dominican Republic,37.8
+East Timor,41.3
+Ecuador,45.0
+Egypt,22.5
+El Salvador,21.4
+Eritrea,7.7
+Estonia,67.4
+Ethiopia,7.9
+Fiji,39.1
+Finland,67.4
+FR Yugoslavia,77.6
+France,101.1
+French Guiana,13.2
+French Polynesia,112.2
+Gabon,46.0
+Georgia,26.0
+Germany,82.1
+Ghana,9.9
+Greece,78.7
+Greenland,63.4
+Grenada,97.0
+Guadeloupe,12.7
+Guam,52.6
+Guatemala,23.8
+Guinea,6.5
+Guinea-Bissau,13.0
+Guyana,31.8
+Haiti,15.3
+Honduras,24.7
+Hungary,100.7
+Iceland,84.8
+India,5.2
+Indonesia,8.3
+Iran,23.1
+Iraq,18.2
+Ireland,106.3
+Israel,97.1
+Italy,90.4
+Ivory Coast,11.3
+Jamaica,56.8
+Japan,45.9
+Jordan,29.8
+Kazakhstan,44.8
+Kenya,14.3
+Kiribati,32.1
+Kuwait,60.2
+Kyrgyzstan,39.0
+Laos,15.0
+Latvia,45.7
+Lebanon,63.1
+Lesotho,15.4
+Liberia,7.9
+Libya,28.6
+Lithuania,49.5
+Luxembourg,141.7
+Madagascar,17.6
+Malawi,5.1
+Malaysia,50.9
+Maldives,16.6
+Mali,19.0
+Malta,86.9
+Martinique,13.9
+Mauritania,29.9
+Mauritius,39.6
+Mexico,58.6
+Moldova,22.7
+Mongolia,108.8
+Morocco,20.6
+Mozambique,5.6
+Myanmar,10.7
+Namibia,34.0
+Nepal,10.0
+Netherlands,89.3
+New Caledonia,76.6
+New Zealand,142.1
+Nicaragua,14.9
+Niger,11.2
+Nigeria,8.6
+North Korea,10.8
+North Macedonia,35.4
+Norway,61.7
+Oman,49.8
+Pakistan,12.3
+Panama,54.5
+Papua New Guinea,73.0
+Paraguay,70.3
+Peru,34.5
+Philippines,31.1
+Poland,78.1
+Portugal,91.1
+Qatar,90.5
+Republic of the Congo,13.3
+Romania,54.5
+Russia,51.0
+Rwanda,4.4
+Saint Kitts and Nevis,99.3
+Saint Lucia,124.1
+Saint Vincent and the Grenadines,79.1
+Samoa,82.6
+Sao Tome and Principe,9.6
+Saudi Arabia,44.6
+Senegal,17.7
+Seychelles,51.1
+Sierra Leone,6.1
+Singapore,71.1
+Slovakia,67.4
+Slovenia,88.0
+Solomon Islands,9.7
+Somalia,9.5
+South Africa,39.0
+South Korea,48.0
+South Sudan,13.1
+Spain,118.6
+Sri Lanka,6.6
+Sudan,21.0
+Suriname,40.3
+Sweden,76.1
+Switzerland,72.9
+Syria,21.2
+Tajikistan,8.7
+Tanzania,10.0
+Thailand,27.9
+The Bahamas,123.6
+The Gambia,5.2
+Togo,8.5
+Trinidad and Tobago,57.8
+Tunisia,25.5
+Turkey,19.3
+Turkmenistan,41.7
+Uganda,11.7
+Ukraine,32.3
+United Arab Emirates,74.4
+United Kingdom,79.6
+United States,124.8
+Uruguay,98.6
+Uzbekistan,20.7
+Vanuatu,32.6
+Venezuela,56.6
+Vietnam,28.6
+Virgin Islands,6.6
+Yemen,14.7
+Zambia,11.9
+Zimbabwe,15.2
