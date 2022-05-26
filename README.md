@@ -20,6 +20,12 @@ Our team is hoping to apply advanced techniques with Machine Learning to define 
 
 We are also looking into other measures not explored in the happiness dataset to see what kind of correlation other factors might have with the happiness data.
 
+**Description of the data exploration phase of the project**
+
+**Description of the analysis phase of the project**
+
+----------------------------------------------------------------------
+
 **Description of the communication protocols:**
 Our team has agreed to use Slack direct messages to communicate.  All members are aware and active on the message string that was created May 5, 2022.
 
@@ -36,6 +42,14 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  - Dashboard will be created using Tableau
  - Presentation will be done in Google Slides
 
+--------------------------------------------------------------------------
+
+
+### Project Outline
+
+
+
+---------------------------------------------------------------------------
 
 ## Checklist (Segment 2)
 
@@ -65,10 +79,10 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  - Explanation of model choice, including limitations and benefits
 
 ### Database Integration
-  - Database stores static data for use during the project
+  - ~~Database stores static data for use during the project~~
   - Database interfaces with the project in some format (e.g., scraping updates the database)
-  - Includes at least two tables (or collections, if using MongoDB)
-  - Includes at least one join using the database language (not including any joins in Pandas)
+  - ~~Includes at least two tables (or collections, if using MongoDB)~~
+  - ~~Includes at least one join using the database language (not including any joins in Pandas)~~
   - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
 ### Dashboard
@@ -76,6 +90,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  - Description of the tool(s) that will be used to create the final dashboard
  - Description of interactive element(s)
 
+------------------------------------------------------------------------
 
 ## Checklist (Segment 1)
 
