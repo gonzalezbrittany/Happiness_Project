@@ -1,1 +1,6 @@
+#Create multi linear regression Model for Happiness Dataset
+happiness_df <- read.csv(file='world-happiness-report-2021-clean.csv',check.names=F,stringsAsFactors = F)
+colnames(happiness_df)
+lm(Ladder_Score ~ year + Regional_Indicator + upperwhisker + lowerwhisker + Logged_GDP_per_Capita + Healthy_Life_Expectancy + Freedom_to_make_life_choices + Generosity, happiness_df)
+summary(lm(Ladder_Score ~ year + Regional_Indicator + upperwhisker + lowerwhisker + Logged_GDP_per_Capita + Healthy_Life_Expectancy + Freedom_to_make_life_choices + Generosity, data=MechaCare_mpg_df)) #generate summary statistics
 
