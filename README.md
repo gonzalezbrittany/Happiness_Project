@@ -30,7 +30,10 @@ We are also looking into other measures not explored in the happiness dataset to
 
 **Presentation Decisions:**
  - Dashboard will be created using Tableau
- - Presentation will be done in Google Slides
+ - 
+ 
+ - Presentation will be completed in Google Slides
+ - https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing
 
 
 ----------------------------------------------------------------------
@@ -52,17 +55,17 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 
 **Description of preliminary data preprocessing:**
  * CSV files were imported into Jupyter notebook
- * All column headers for each CSV file were reviewed, if column names containing same variable did not match between files this was correct.
- * All variables under “country_name” were reviewed. Country names that appeared multiple times were checked on, any country names with slightly different spelling  	were corrected. 
+ * All column headers for each CSV file were reviewed, if column names containing same variable did not match between files, this was corrected.
+ * All variables under “country_name” were reviewed. Country names that appeared multiple times were reviewed, any country names with slightly different spellings  	were corrected. 
  * Missing Region info for countries were researched and added to designated columns in each file. 
  * After all tables were combined into one master dataset table, Jupyter notebook was utilized to determine column NA count. All columns that had over 50% missing      values were removed.
  * All rows still containing missing values in the master dataset table were also removed.
  * Random Forest was used to narrow the total variables down to the top 10 variables that impact happiness scores the most. 
 
 **Description of preliminary feature engineering and preliminary feature selection, including the decision-making process**
- * The target for the machine learning model is happiness scores, this is labels as “ladder_score” in the analysis
+ * The target for the machine learning model is happiness scores, this is labeled as “ladder_score” in the analysis
  * Random Forest was chosen to narrow down the number of variables to the ten most impactful for happiness scores. 
- * For this analysis, three machine learning models were chosen: Multiple Regression, Random Forest and the decision tree. The goal is to see which model predicts happiness scores accurately while also figuring out which variables are statistically significant in the analysis. 
+ * For this analysis, three machine learning models were chosen: Multiple Regression, Random Forest, and the decision tree. The goal is to see which model predicts happiness scores accurately while also figuring out which variables are statistically significant in the analysis. 
 
 
 **Description of how data was split into training and testing sets**
@@ -119,8 +122,8 @@ https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4
 
 ### Machine Learning Model
  - ~~Description of preliminary data preprocessing~~
- -  ~~Description of preliminary feature engineering and preliminary feature selection, including the decision-making process~~
- - ~~Description of how data was split into training and testing sets~~
+ - Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+ - Description of how data was split into training and testing sets
  - Explanation of model choice, including limitations and benefits
 
 ### Database Integration
