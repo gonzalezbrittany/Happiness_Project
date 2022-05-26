@@ -60,9 +60,14 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  * Random Forest was used to narrow the total variables down to the top 10 variables that impact happiness scores the most. 
 
 **Description of preliminary feature engineering and preliminary feature selection, including the decision-making process**
+ * The target for the machine learning model is happiness scores, this is labels as “ladder_score” in the analysis
+ * Random Forest was chosen to narrow down the number of variables to the ten most impactful for happiness scores. 
+ * For this analysis, three machine learning models were chosen: Multiple Regression, Random Forest and the decision tree. The goal is to see which model predicts happiness scores accurately while also figuring out which variables are statistically significant in the analysis. 
+
 
 **Description of how data was split into training and testing sets**
-
+ * Default parameters were used to split the data into training and testing sets
+ 
 **Explanation of model choice, including limitations and benefits**
 
 ------------------------------------------------------------------------------
