@@ -1,6 +1,10 @@
 # Happiness Project
 
+## Requirements
+
+-----------------------------------------------------------------------
 ### Presentation
+
 
 **Topic:** World Happiness Report 2021
 
@@ -24,11 +28,50 @@ We are also looking into other measures not explored in the happiness dataset to
 
 **Description of the analysis phase of the project**
 
+**Presentation Decisions:**
+ - Dashboard will be created using Tableau
+ - Presentation will be done in Google Slides
+
+
 ----------------------------------------------------------------------
+
+### Git Hub
+
 
 **Description of the communication protocols:**
 Our team has agreed to use Slack direct messages to communicate.  All members are aware and active on the message string that was created May 5, 2022.
 
+**Project Outline:**
+
+
+
+---------------------------------------------------------------------------
+
+### Machine Learning Model
+
+
+**Description of preliminary data preprocessing:**
+
+**Description of preliminary feature engineering and preliminary feature selection, including the decision-making process**
+
+**Description of how data was split into training and testing sets**
+
+**Explanation of model choice, including limitations and benefits**
+
+------------------------------------------------------------------------------
+
+### Dashboard
+
+**Storyboard on a Google Slide(s):**
+https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing
+
+**Description of the tool(s) that will be used to create the final dashboard**
+
+**Description of interactive element(s)**
+
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
 
 **Data Sources:**
  - World Happiness Data: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
@@ -38,18 +81,8 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  - Land Use and Density: 
  - Average Screen Time: 
 
-**Presentation Decisions:**
- - Dashboard will be created using Tableau
- - Presentation will be done in Google Slides
-
---------------------------------------------------------------------------
-
-
-### Project Outline
-
-
-
----------------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 ## Checklist (Segment 2)
 
