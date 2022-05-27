@@ -84,7 +84,7 @@ Dashboard will be created using Tableau
 
 **Description of interactive element(s):**
 
-
+Description is in the Google slide storyboard.
 
 ---------------------------------------------------------------------------
 
