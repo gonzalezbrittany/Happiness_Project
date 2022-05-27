@@ -120,11 +120,11 @@ Dashboard will be created using Tableau
 
 ### GitHub Repository
  -  **Main Branch**
-     *  All code necessary to perform exploratory analysis
-     *  some code necessary to complete the machine learning portion of the project
+     *  ~~All code necessary to perform exploratory analysis~~
+     *  ~~Some code necessary to complete the machine learning portion of the project~~
  -  **README.md**
      *  ~~includes description of communication protocols~~
-     *  Includes outline of the project (may include images but shold be easy to follow)
+     *  ~~Includes outline of the project (may include images but should be easy to follow)~~
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
      *  ~~Each team member has at least four commits for the duration of the second segment~~
@@ -145,7 +145,7 @@ Dashboard will be created using Tableau
 ### Dashboard
  - ~~Storyboard on a Google Slide(s): https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing~~
  - ~~Description of the tool(s) that will be used to create the final dashboard~~
- - Description of interactive element(s)
+ - ~~Description of interactive element(s)~~
 
 ------------------------------------------------------------------------
 
