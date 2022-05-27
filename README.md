@@ -30,14 +30,6 @@ We took several different data sets that reported their data by country and load
 **Description of the analysis phase of the project**
 
 
-**Presentation Decisions:**
- - Dashboard will be created using Tableau
- - 
- 
- - Presentation will be completed in Google Slides
- - https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing
-
-
 ----------------------------------------------------------------------
 
 ### Git Hub
@@ -83,6 +75,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing
 
 **Description of the tool(s) that will be used to create the final dashboard**
+Dashboard will be created using Tableau
 
 **Description of interactive element(s)**
 
