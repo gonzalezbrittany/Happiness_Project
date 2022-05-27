@@ -137,7 +137,7 @@ Dashboard will be created using Tableau
 
 ### Database Integration
   - ~~Database stores static data for use during the project~~
-  - Database interfaces with the project in some format (e.g., scraping updates the database)
+  - ~~Database interfaces with the project in some format (e.g., scraping updates the database)~~
   - ~~Includes at least two tables (or collections, if using MongoDB)~~
   - ~~Includes at least one join using the database language (not including any joins in Pandas)~~
   - ~~Includes at least one connection string (using SQLAlchemy or PyMongo)~~
