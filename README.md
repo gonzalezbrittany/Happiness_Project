@@ -102,7 +102,7 @@ Dashboard will be created using Tableau
  - [Covid Data](https://ourworldindata.org/covid-cases)
  - [Alcohol Consumption by Country](https://worldpopulationreview.com/country-rankings/alcohol-consumption-by-country)
  - [Meat Consumption, Median Age, Suicide Rate](https://www.kaggle.com/datasets/daniboy370/world-data-by-country-2020)
- - [Land Use and Density](https://en.wikipedia.org/wiki/Land_use_statistics_by_country)
+ - [Land Use and Density](https://data.world/jst5th/country-population-land-area-density)
  - [Average Screen Time](https://www.comparitech.com/tv-streaming/screen-time-statistics/)
 
 ----------------------------------------------------------------------
