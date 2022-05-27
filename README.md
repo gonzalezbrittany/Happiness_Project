@@ -1,5 +1,9 @@
 # Happiness Project
 
+
+**Project Outline:**
+
+
 ## Requirements
 
 -----------------------------------------------------------------------
@@ -38,10 +42,6 @@ In SQL view to check how each country was reported in each data set to check for
 
 **Description of the communication protocols:**
 Our team has agreed to use Slack direct messages to communicate.  All members are aware and active on the message string that was created May 5, 2022.
-
-**Project Outline:**
-
-
 
 ---------------------------------------------------------------------------
 
