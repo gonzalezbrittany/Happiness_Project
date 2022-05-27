@@ -98,10 +98,10 @@ Dashboard will be created using Tableau
 ---------------------------------------------------------------------------
 
 **Data Sources:**
- - World Happiness Data: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
- - Covid Data:  https://ourworldindata.org/covid-cases
- - Alcohol Consumption by Country: https://worldpopulationreview.com/country-rankings/alcohol-consumption-by-country
- - Meat Consumption, Median Age, Suicide Rate: https://www.kaggle.com/datasets/daniboy370/world-data-by-country-2020
+ - [World Happiness Data](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
+ - [Covid Data](https://ourworldindata.org/covid-cases)
+ - [Alcohol Consumption by Country](https://worldpopulationreview.com/country-rankings/alcohol-consumption-by-country)
+ - [Meat Consumption, Median Age, Suicide Rate](https://www.kaggle.com/datasets/daniboy370/world-data-by-country-2020)
  - Land Use and Density: 
  - Average Screen Time: 
 
