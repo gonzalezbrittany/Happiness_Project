@@ -25,10 +25,10 @@ Our team is hoping to apply advanced techniques with Machine Learning to define 
 We are also looking into other measures not explored in the happiness dataset to see what kind of correlation other factors might have with the happiness data.
 
 **Description of the data exploration phase of the project**
-We took several different data sets that reported their data by country and loaded them each into their own postgres SQL table. Then we created a SQL view to check how each country was reported in each data set to check for spelling differences or abbrivations. After identifying the different ways a country was referred to we created a cross reference table that we could join each of the data sets to. Then we combined all the datasets in a view that could be used when creating the machine learning model.
+We took several different data sets that reported their data by country and loaded them each into their own postgres SQL table. 
 
 **Description of the analysis phase of the project**
-
+In SQL view to check how each country was reported in each data set to check for spelling differences or abbrivations. After identifying the different ways a country was referred to we created a cross reference table that we could join each of the data sets to. Then we combined all the datasets in a view that could be used when creating the machine learning model.
 
 ----------------------------------------------------------------------
 
