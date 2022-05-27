@@ -9,7 +9,8 @@
 **Topic:** World Happiness Report 2021
 
 
-**Reason why we selected our topic:**  Our team explored various data sets such as Olympic data, Zillow housing data, NBA player statistics and the World Happiness data.  
+**Reason why we selected our topic:**  
+Our team explored various data sets such as Olympic data, Zillow housing data, NBA player statistics and the World Happiness data.  
 
 As we chatted about what insights we could gain from the analysis we decided the features and information available within the World Happiness data was what we wanted to explore.
 
@@ -24,10 +25,10 @@ Our team is hoping to apply advanced techniques with Machine Learning to define 
 
 We are also looking into other measures not explored in the happiness dataset to see what kind of correlation other factors might have with the happiness data.
 
-**Description of the data exploration phase of the project**
+**Description of the data exploration phase of the project:**
 We took several different data sets that reported their data by country and loaded them each into their own postgres SQL table. 
 
-**Description of the analysis phase of the project**
+**Description of the analysis phase of the project:**
 In SQL view to check how each country was reported in each data set to check for spelling differences or abbrivations. After identifying the different ways a country was referred to we created a cross reference table that we could join each of the data sets to. Then we combined all the datasets in a view that could be used when creating the machine learning model.
 
 ----------------------------------------------------------------------
@@ -56,28 +57,34 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  * All rows still containing missing values in the master dataset table were also removed.
  * Random Forest was used to narrow the total variables down to the top 10 variables that impact happiness scores the most. 
 
-**Description of preliminary feature engineering and preliminary feature selection, including the decision-making process**
+**Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:**
  * The target for the machine learning model is happiness scores, this is labeled as “ladder_score” in the analysis
  * Random Forest was chosen to narrow down the number of variables to the ten most impactful for happiness scores. 
  * For this analysis, three machine learning models were chosen: Multiple Regression, Random Forest, and the decision tree. The goal is to see which model predicts happiness scores accurately while also figuring out which variables are statistically significant in the analysis. 
 
 
-**Description of how data was split into training and testing sets**
+**Description of how data was split into training and testing sets:**
  * Multiple Regression and Random Forest: Default parameters were used to split the data into training and testing sets
  
-**Explanation of model choice, including limitations and benefits**
+**Explanation of model choice, including limitations and benefits:**
 
 ------------------------------------------------------------------------------
 
 ### Dashboard
 
 **Storyboard on a Google Slide(s):**
+
 https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing
 
-**Description of the tool(s) that will be used to create the final dashboard**
+
+**Description of the tool(s) that will be used to create the final dashboard:**
+
 Dashboard will be created using Tableau
 
-**Description of interactive element(s)**
+
+**Description of interactive element(s):**
+
+
 
 ---------------------------------------------------------------------------
 
@@ -101,8 +108,8 @@ Dashboard will be created using Tableau
  - ~~Reason for selected topic~~
  - ~~Description of the source of the data~~
  - ~~Questions we hope to answer with the data~~
- - Description of the data exploration phase of the project
- - Description of the analysis phase of the project
+ - ~~Description of the data exploration phase of the project~~
+ - ~~Description of the analysis phase of the project~~
 
 ### GitHub Repository
  -  **Main Branch**
@@ -113,7 +120,7 @@ Dashboard will be created using Tableau
      *  Includes outline of the project (may include images but shold be easy to follow)
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
-     *  Each team member has at least four commits for the duration of the second segment
+     *  ~~Each team member has at least four commits for the duration of the second segment~~
 
 ### Machine Learning Model
  - ~~Description of preliminary data preprocessing~~
@@ -126,11 +133,11 @@ Dashboard will be created using Tableau
   - Database interfaces with the project in some format (e.g., scraping updates the database)
   - ~~Includes at least two tables (or collections, if using MongoDB)~~
   - ~~Includes at least one join using the database language (not including any joins in Pandas)~~
-  - Includes at least one connection string (using SQLAlchemy or PyMongo)
+  - ~~Includes at least one connection string (using SQLAlchemy or PyMongo)~~
 
 ### Dashboard
- - Storyboard on a Google Slide(s): https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing
- - Description of the tool(s) that will be used to create the final dashboard
+ - ~~Storyboard on a Google Slide(s): https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing~~
+ - ~~Description of the tool(s) that will be used to create the final dashboard~~
  - Description of interactive element(s)
 
 ------------------------------------------------------------------------
