@@ -84,7 +84,10 @@ Dashboard will be created using Tableau
 
 **Description of interactive element(s):**
 
-Description is in the Google slide storyboard.
+-Map will allow users to click and filter additional graphs on the page
+-Happiness by Region will allow users to click and see details for that region
+-Region Deep Dive will have filter to explore a specific region and or a country within that region
+
 
 ---------------------------------------------------------------------------
 
