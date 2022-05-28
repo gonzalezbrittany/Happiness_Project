@@ -1,6 +1,9 @@
 #Create multi linear regression Model for Happiness Dataset
-happiness_df <- read.csv(file='world-happiness-report-2021-clean.csv',check.names=F,stringsAsFactors = F)
+happiness_df <- read.csv(file='happiness_top10_df.csv',check.names=F,stringsAsFactors = F)
 colnames(happiness_df)
-lm(Ladder_Score ~ year + Regional_Indicator + upperwhisker + lowerwhisker + Logged_GDP_per_Capita + Healthy_Life_Expectancy + Freedom_to_make_life_choices + Generosity, happiness_df)
-summary(lm(Ladder_Score ~ year + Regional_Indicator + upperwhisker + lowerwhisker + Logged_GDP_per_Capita + Healthy_Life_Expectancy + Freedom_to_make_life_choices + Generosity, data=MechaCare_mpg_df)) #generate summary statistics
+lm(ladder_score ~ freedom + healty_life_exp + log_gdp_per_cap + meat_consumption + percept_corrupt + suicide_rate + social_support + covid_tests_per_mil + ac_female + generosity + covid_deaths_per_mil + covid_total_tests, happiness_df)
+summary(lm(ladder_score ~ freedom + healty_life_exp + log_gdp_per_cap + meat_consumption + percept_corrupt + suicide_rate + social_support + covid_tests_per_mil + ac_female + generosity + covid_deaths_per_mil + covid_total_tests, happiness_df)) #generate summary statistics
+
+# Figure out which predictor variables have an exact linear relationship
+cor(happiness_df)
 

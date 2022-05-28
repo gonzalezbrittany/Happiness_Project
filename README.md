@@ -102,8 +102,8 @@ Dashboard will be created using Tableau
  - [Covid Data](https://ourworldindata.org/covid-cases)
  - [Alcohol Consumption by Country](https://worldpopulationreview.com/country-rankings/alcohol-consumption-by-country)
  - [Meat Consumption, Median Age, Suicide Rate](https://www.kaggle.com/datasets/daniboy370/world-data-by-country-2020)
- - Land Use and Density: 
- - Average Screen Time: 
+ - [Land Use and Density](https://data.world/jst5th/country-population-land-area-density)
+ - [Average Screen Time](https://www.comparitech.com/tv-streaming/screen-time-statistics/)
 
 ----------------------------------------------------------------------
 -----------------------------------------------------------------------------
@@ -120,11 +120,11 @@ Dashboard will be created using Tableau
 
 ### GitHub Repository
  -  **Main Branch**
-     *  All code necessary to perform exploratory analysis
-     *  some code necessary to complete the machine learning portion of the project
+     *  ~~All code necessary to perform exploratory analysis~~
+     *  ~~Some code necessary to complete the machine learning portion of the project~~
  -  **README.md**
      *  ~~includes description of communication protocols~~
-     *  Includes outline of the project (may include images but shold be easy to follow)
+     *  ~~Includes outline of the project (may include images but should be easy to follow)~~
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
      *  ~~Each team member has at least four commits for the duration of the second segment~~
@@ -137,7 +137,7 @@ Dashboard will be created using Tableau
 
 ### Database Integration
   - ~~Database stores static data for use during the project~~
-  - Database interfaces with the project in some format (e.g., scraping updates the database)
+  - ~~Database interfaces with the project in some format (e.g., scraping updates the database)~~
   - ~~Includes at least two tables (or collections, if using MongoDB)~~
   - ~~Includes at least one join using the database language (not including any joins in Pandas)~~
   - ~~Includes at least one connection string (using SQLAlchemy or PyMongo)~~
@@ -145,7 +145,7 @@ Dashboard will be created using Tableau
 ### Dashboard
  - ~~Storyboard on a Google Slide(s): https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing~~
  - ~~Description of the tool(s) that will be used to create the final dashboard~~
- - Description of interactive element(s)
+ - ~~Description of interactive element(s)~~
 
 ------------------------------------------------------------------------
 
