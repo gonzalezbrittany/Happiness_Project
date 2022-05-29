@@ -66,7 +66,27 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 **Description of how data was split into training and testing sets:**
  * Multiple Regression and Random Forest: Default parameters were used to split the data into training and testing sets
  * Random Forest: 80% train and 20% test
+ 
 **Explanation of model choice, including limitations and benefits:**
+* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 37.5%, however, this may cause an overfitting issue when running the same predictive model on new data. 
+
+![image](https://user-images.githubusercontent.com/26393180/170882005-db5ca981-8de1-456f-af96-ecccc89f14d2.png)
+
+* Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. Random Forest was chosen to be our next predictive model to account for this and attempt to strengthen the predictive model. Running this predictive model did end up increasing our accuracy score to 63.8%. Random forest, so far, is the best at creating a predictive model for happiness scores.
+
+![image](https://user-images.githubusercontent.com/26393180/170882048-7d452653-9f95-47c4-b688-ad18f73af11e.png)
+
+* To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. After initially running the model, R did not provide a coefficient for the variables “suicide_rate” which is shown below. 
+
+![image](https://user-images.githubusercontent.com/26393180/170881947-890c8053-a429-49d3-837b-b13905e96bff.png)
+
+After investigate further,  it was found that the variable “suicide_rate” and “meat_consumption” have an exact linear model, this is shown below. 
+
+![image](https://user-images.githubusercontent.com/26393180/170881965-afe284a4-5010-49a7-b181-9f413e7275c1.png)
+
+The variable “suicide_rate” was dropped from the model since it does not provide unique information in the regression model. Our final predictive model for multiple regression shows an accuracy score of 76.6%. Between the three models, multiple regression is the best predictive model to predict happiness scores.
+
+![image](https://user-images.githubusercontent.com/26393180/170881976-bc755627-8789-48a2-bcd4-781f5e2b9de0.png)
 
 ------------------------------------------------------------------------------
 
