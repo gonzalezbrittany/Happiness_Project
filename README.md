@@ -129,6 +129,53 @@ Dashboard will be created using Tableau
 ----------------------------------------------------------------------
 -----------------------------------------------------------------------------
 
+## Checklist (Segment 3)
+
+### Presentation
+ - ~~Select Topic~~
+ - ~~Reason for selected topic~~
+ - ~~Description of the source of the data~~
+ - ~~Questions we hope to answer with the data~~
+ - ~~Description of the data exploration phase of the project~~
+ - ~~Description of the analysis phase of the project~~
+ - Technologies, languages, tools, and algorithms used throughout the project
+ - **Slides**
+     * Presentation is drafted in google slides
+
+### GitHub Repository
+ -  **Main Branch**
+     *  ~~All code necessary to perform exploratory analysis~~
+     *  ~~Some code necessary to complete the machine learning portion of the project~~
+     *  All code is production ready
+ -  **README.md**
+     *  remove description of communication protocols
+     *  Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
+     *  Google Slides Link: 
+ -  **Individual Branches**
+     *  ~~At least one branch for Each team member~~
+     *  ~~Each team member has at least four commits for the duration of the second segment~~
+
+### Machine Learning Model
+ - Description of data preprocessing
+ - Description of feature engineering and feature selection, including the decision-making process
+ - ~~Description of how data was split into training and testing sets~~
+ -  ~~Explanation of model choice, including limitations and benefits~~
+ -  Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+ -  Description of how they have trained the model thus far, and any additional training that will take place
+ -  Description of current accuracy score
+
+### Database Integration
+  <There are no deliverables for the database integration section of the project for this segment.>
+
+### Dashboard
+ - Images from the initial analysis
+ - Data (images or report) from the machine learning task
+ - At least one interactive element
+ - The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
+
+
+-----------------------------------------------------------------------------
+
 ## Checklist (Segment 2)
 
 ### Presentation
