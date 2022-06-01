@@ -55,7 +55,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  * Missing Region info for countries were researched and added to designated columns in each file. 
  * After all tables were combined into one master dataset table, Jupyter notebook was utilized to determine column NA count. All columns that had over 50% missing      values were removed.
  * All rows still containing missing values in the master dataset table were also removed.
- * Random Forest was used to narrow the total variables down to the top 10 variables that impact happiness scores the most. 
+ * Random Forest was used to narrow the total variables down to the top 12 variables that impact happiness scores the most. 
 
 **Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:**
  * The target for the machine learning model is happiness scores, this is labeled as “ladder_score” in the analysis
