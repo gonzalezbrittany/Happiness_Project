@@ -65,7 +65,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 
 **Description of how data was split into training and testing sets:**
  * Multiple Regression and Random Forest: Default parameters were used to split the data into training and testing sets
- * Random Forest: 80% train and 20% test
+ * Decision Tree: 80% train and 20% test
  
 **Explanation of model choice, including limitations and benefits:**
 
