@@ -61,7 +61,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  * The target for the machine learning model is happiness scores, this is labeled as “ladder_score” in the analysis
  * Random Forest was chosen to narrow down the number of variables to the twelve most impactful for happiness scores. The below were listed as the top twelve.
  * 
- ![image](https://user-images.githubusercontent.com/26393180/171748985-15708b72-7f04-4c02-bcb5-3b32f1e82f5d.png)
+ ![image](https://user-images.githubusercontent.com/26393180/171750321-e60ad1b3-a277-4c8a-8c0f-5f0d30143bb4.png)
 
  * For this analysis, three machine learning models were chosen: Multiple Regression, Random Forest, and the decision tree. The goal is to see which model predicts happiness scores accurately while also figuring out which variables are statistically significant in the analysis. 
 
