@@ -72,9 +72,9 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  
 **Explanation of model choice, including limitations and benefits:**
 
-* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 44%, however, this may cause an overfitting issue when running the same predictive model on new data. 
+* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 40%, however, this may cause an overfitting issue when running the same predictive model on new data. 
 
-	![image](https://user-images.githubusercontent.com/26393180/171753187-c046dfb8-4e97-4344-a69e-81c090b50abd.png)
+	![image](https://user-images.githubusercontent.com/26393180/171753562-a53ae70e-39c6-44f4-b542-23890caf1f39.png)
 
 
 * Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. Random Forest was chosen to be our next predictive model to account for this and attempt to strengthen the predictive model. Running this predictive model did end up increasing our accuracy score to 45.4%. Random forest, so far, is the best at creating a predictive model for happiness scores.
