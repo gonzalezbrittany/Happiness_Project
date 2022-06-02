@@ -77,9 +77,9 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 	![image](https://user-images.githubusercontent.com/26393180/171310830-7d446c6f-f9c0-43c5-a7f5-bab7dff89e3d.png)
 
 
-* Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. Random Forest was chosen to be our next predictive model to account for this and attempt to strengthen the predictive model. Running this predictive model did end up increasing our accuracy score to 40.0%. Random forest, so far, is the best at creating a predictive model for happiness scores.
+* Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. Random Forest was chosen to be our next predictive model to account for this and attempt to strengthen the predictive model. Running this predictive model did end up increasing our accuracy score to 45.4%. Random forest, so far, is the best at creating a predictive model for happiness scores.
 
-	![image](https://user-images.githubusercontent.com/26393180/171749696-6ebe1815-b1aa-4b9a-870b-819faef1b986.png)
+	![image](https://user-images.githubusercontent.com/26393180/171751781-4b6057a3-72fe-4b22-9636-76808812e6f3.png)
 
 * To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. Default perameters were used to split the data between train and test. Our final predictive model for multiple regression shows an accuracy score of 75.6% with three variables being statistically signification: freedom, meat_consumption and social_support. Between the three models, multiple regression is the best predictive model to predict happiness scores.
 
