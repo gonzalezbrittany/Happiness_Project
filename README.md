@@ -156,9 +156,10 @@ Dashboard will be created using Tableau
  - Description of feature engineering and feature selection, including the decision-making process
  - ~~Description of how data was split into training and testing sets~~
  -  ~~Explanation of model choice, including limitations and benefits~~
- -  Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+ -  ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
+ 	* no changes
  -  Description of how they have trained the model thus far, and any additional training that will take place
- -  Description of current accuracy score
+ -  ~~Description of current accuracy score~~
 
 ### Database Integration
   <There are no deliverables for the database integration section of the project for this segment.>
