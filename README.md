@@ -101,8 +101,8 @@ https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4
 Dashboard has been created and Published on Tableau Public
 https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/WorldHappiness
 
+<img width="800" alt="World Happiness" src="https://user-images.githubusercontent.com/96347024/171909393-90ad233f-322b-49c6-a996-49f5066e1214.png">
 
-<img width="800" alt="Dashboard_World_Happiness" src="https://user-images.githubusercontent.com/96347024/171904771-3a2be940-3a61-4ead-88d3-40c415bbc706.png">
 
 
 **Description of interactive element(s):**
