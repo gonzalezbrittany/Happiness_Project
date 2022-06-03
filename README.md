@@ -98,14 +98,15 @@ https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4
 
 **Description of the tool(s) that will be used to create the final dashboard:**
 
-Dashboard will be created using Tableau
+Dashboard has been created and Published on Tableau Public
+https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/WorldHappiness
 
 
 **Description of interactive element(s):**
 
--Map will allow users to click and filter additional graphs on the page
--Happiness by Region will allow users to click and see details for that region
--Region Deep Dive will have filter to explore a specific region and or a country within that region
+
+-Filters for Region and Country Name are in the top right of each Dashboard
+-Additional Filtering is available on the Map, bar graph and the Ledged of the Scatter plots
 
 
 ---------------------------------------------------------------------------
