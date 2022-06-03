@@ -74,18 +74,18 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  
 **Explanation of model choice, including limitations and benefits:**
 
-* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 40%, however, this may cause an overfitting issue when running the same predictive model on new data. 
+* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 40%, however, this may cause an overfitting issue when running the same predictive model on new data.  For the third attempt at increasing the accuracy for the decisions tree, we used SMOTE to attempt to correct the imbalance in the dataset prior to re-running the model. Model split did not change (80% train and 20% test). This did bring the accuracy score from to 58.3%. We still are checking to see if there are any additional ways to bring up the accuracy score for this model.
 
-	![image](https://user-images.githubusercontent.com/26393180/171753562-a53ae70e-39c6-44f4-b542-23890caf1f39.png)
+	![image](https://user-images.githubusercontent.com/26393180/171965722-780aecab-1747-4113-9bf5-716a16b7f994.png)
 
 
-* Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. Random Forest was chosen to be our next predictive model to account for this and attempt to strengthen the predictive model. Running this predictive model did end up increasing our accuracy score to 45.4%. Random forest, so far, is the best at creating a predictive model for happiness scores.
+* Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. To account for this issue and attempt to strengthen the model, Random Forest was chosen to be our next predictive model. Prior to balancing the data by using SMOTE, the accuracy score was 45.4%. When running SMOTE prior to running the Random Forest model, the accuracy score jumped up to 67.0%. We still are checking to see if there are any additional ways to bring up the accuracy score for this model.
 
-	![image](https://user-images.githubusercontent.com/26393180/171753230-af5cf54e-e4e6-4cc5-811a-645c445112ec.png)
+	![image](https://user-images.githubusercontent.com/26393180/171966433-34ddc790-49bd-4e46-90a3-6ab3d2dbed97.png)
 
 * To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. Default perameters were used to split the data between train and test. Our final predictive model for multiple regression shows an accuracy score of 77.2% with five variables being statistically signification: freedom, social_support, percept_corrupt, meat_consumption and generosity. Between the three models, multiple regression is the best predictive model to predict happiness scores.
 
-	![image](https://user-images.githubusercontent.com/26393180/171752880-30e6ee97-dffb-4b0c-ab5b-024c9bceb742.png)
+	
 
 ------------------------------------------------------------------------------
 
@@ -165,7 +165,7 @@ https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/Worl
  -  ~~Explanation of model choice, including limitations and benefits~~
  -  ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
  	* no changes
- -  Description of how they have trained the model thus far, and any additional training that will take place
+ -  ~~Description of how they have trained the model thus far, and any additional training that will take place~~
  -  ~~Description of current accuracy score~~
 
 ### Database Integration
