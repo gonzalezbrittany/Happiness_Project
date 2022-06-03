@@ -102,10 +102,14 @@ Dashboard has been created and Published on Tableau Public
 https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/WorldHappiness
 
 
+<img width="800" alt="Dashboard_World_Happiness" src="https://user-images.githubusercontent.com/96347024/171904771-3a2be940-3a61-4ead-88d3-40c415bbc706.png">
+
+
 **Description of interactive element(s):**
 
 
 -Filters for Region and Country Name are in the top right of each Dashboard
+
 -Additional Filtering is available on the Map, bar graph and the Ledged of the Scatter plots
 
 
