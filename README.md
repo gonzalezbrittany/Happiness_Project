@@ -85,6 +85,9 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 
 * To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. Default perameters were used to split the data between train and test. Our final predictive model for multiple regression shows an accuracy score of 77.2% with five variables being statistically signification: freedom, social_support, percept_corrupt, meat_consumption and generosity. Between the three models, multiple regression is the best predictive model to predict happiness scores.
 
+	![image](https://user-images.githubusercontent.com/26393180/171967379-c787457d-5130-42c4-929b-894229cdccd4.png)
+
+
 	
 
 ------------------------------------------------------------------------------
