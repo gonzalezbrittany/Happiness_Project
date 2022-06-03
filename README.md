@@ -159,8 +159,8 @@ https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/Worl
      *  ~~Each team member has at least four commits for the duration of the second segment~~
 
 ### Machine Learning Model
- - Description of data preprocessing
- - Description of feature engineering and feature selection, including the decision-making process
+ - ~~Description of data preprocessing~~
+ - ~~Description of feature engineering and feature selection, including the decision-making process~~
  - ~~Description of how data was split into training and testing sets~~
  -  ~~Explanation of model choice, including limitations and benefits~~
  -  ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
