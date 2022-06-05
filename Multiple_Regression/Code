@@ -9,5 +9,5 @@ summary(lm(ladder_score ~ healty_life_exp + covid_tests_per_mil +  freedom + soc
 data_mod <- data.frame(Predicted = as.integer(predict(my_mod)), 
                        Observed = happiness_df$ladder_score)
 
-#Export as CSV file, this file will be used in Pythong to create confusion matrix
+#Export as CSV file, this file will be used in Python to create confusion matrix
 write.csv(data_mod,"C:\\Users\\Brittany\\Desktop\\Class\\Happiness_Project\\Mult_Reg_Predictions2.csv", row.names = FALSE)
