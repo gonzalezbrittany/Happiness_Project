@@ -44,13 +44,6 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 **Slides - Presentation is drafted in google slides:**
 [Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
 
-----------------------------------------------------------------------
-
-### Git Hub
-
-
-**Description of the communication protocols:**
-Our team has agreed to use Slack direct messages to communicate.  All members are aware and active on the message string that was created May 5, 2022.
 
 ---------------------------------------------------------------------------
 
