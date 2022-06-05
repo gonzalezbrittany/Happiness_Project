@@ -37,9 +37,9 @@ In SQL view to check how each country was reported in each data set to check for
 
 **Technologies, languages, tools, and algorithms used throughout the project:**
 
-Languages: PostgreSQL; Python; R
-Tools: PostgreSQL; Tableau; Google Slides; Jupyter Notebook; Slack; Excel
-Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
+Languages: PostgreSQL; Python; R  
+Tools: PostgreSQL; Tableau; Google Slides; Jupyter Notebook; Slack; Excel  
+Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE  
 
 **Slides - Presentation is drafted in google slides:**
 [Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
