@@ -85,9 +85,12 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 
 	![image](https://user-images.githubusercontent.com/26393180/171966433-34ddc790-49bd-4e46-90a3-6ab3d2dbed97.png)
 
-* To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. Default perameters were used to split the data between train and test. Our final predictive model for multiple regression shows an accuracy score of 77.2% with five variables being statistically signification: freedom, social_support, percept_corrupt, meat_consumption and generosity. Between the three models, multiple regression is the best predictive model to predict happiness scores.
+* To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. Default perameters were used to split the data between train and test. Our final predictive model for multiple regression shows an accuracy score of 75.8% with five variables being statistically signification: freedom, social_support, percept_corrupt, meat_consumption and generosity. Between the three models, multiple regression is the best predictive model to predict happiness scores.
 
-	![image](https://user-images.githubusercontent.com/26393180/171967379-c787457d-5130-42c4-929b-894229cdccd4.png)
+	![image](https://user-images.githubusercontent.com/26393180/172069204-1831ae81-a433-487b-8b2e-42d0f3b63f26.png)
+	
+	![image](https://user-images.githubusercontent.com/26393180/172069255-93341c0c-5bf5-46d3-b447-3e53885f602d.png)
+
 
 
 	
