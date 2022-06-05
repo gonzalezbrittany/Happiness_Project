@@ -35,6 +35,15 @@ We took several different data sets that reported their data by country and load
 **Description of the analysis phase of the project:**
 In SQL view to check how each country was reported in each data set to check for spelling differences or abbrivations. After identifying the different ways a country was referred to we created a cross reference table that we could join each of the data sets to. Then we combined all the datasets in a view that could be used when creating the machine learning model.
 
+**Technologies, languages, tools, and algorithms used throughout the project:**
+
+Languages: PostgreSQL; Python; R
+Tools: PostgreSQL; Tableu; Google Slides; Jupityr Notebook; Slack; Excel
+Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
+
+**Slides - Presentation is drafted in google slides:**
+[Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
+
 ----------------------------------------------------------------------
 
 ### Git Hub
@@ -74,7 +83,7 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  
 **Explanation of model choice, including limitations and benefits:**
 
-* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 40%, however, this may cause an overfitting issue when running the same predictive model on new data.  For the third attempt at increasing the accuracy for the decisions tree, we used SMOTE to attempt to correct the imbalance in the dataset prior to re-running the model. Model split did not change (80% train and 20% test). This did bring the accuracy score from to 58.3%. We still are checking to see if there are any additional ways to bring up the accuracy score for this model.
+* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 40%, however, this may cause an overfitting issue when running the same predictive model on new data.  For the third attempt at increasing the accuracy for the decisions tree, we used SMOTE to attempt to correct the imbalance in the dataset prior to re-running the model. Model split did not change (80% train and 20% test). This did bring the accuracy score to 58.3%. We still are checking to see if there are any additional ways to bring up the accuracy score for this model.
 
 	![image](https://user-images.githubusercontent.com/26393180/171965722-780aecab-1747-4113-9bf5-716a16b7f994.png)
 
@@ -118,7 +127,7 @@ https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/Worl
 
 ---------------------------------------------------------------------------
 
-[Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
+
 
 ---------------------------------------------------------------------------
 
@@ -144,19 +153,19 @@ https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/Worl
  - ~~Questions we hope to answer with the data~~
  - ~~Description of the data exploration phase of the project~~
  - ~~Description of the analysis phase of the project~~
- - Technologies, languages, tools, and algorithms used throughout the project
- - **Slides**
-     * Presentation is drafted in google slides
+ - ~~chnologies, languages, tools, and algorithms used throughout the project~~
+ - ~~**Slides**~~
+     * ~~Presentation is drafted in google slides~~
 
 ### GitHub Repository
  -  **Main Branch**
      *  ~~All code necessary to perform exploratory analysis~~
      *  ~~Some code necessary to complete the machine learning portion of the project~~
-     *  All code is production ready
+     *  ~~All code is production ready~~
  -  **README.md**
      *  remove description of communication protocols
-     *  Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
-     *  Google Slides Link: 
+     *  ~~Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)~~
+     *  ~~Google Slides Link:~~
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
      *  ~~Each team member has at least four commits for the duration of the second segment~~
@@ -175,10 +184,10 @@ https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/Worl
   <There are no deliverables for the database integration section of the project for this segment.>
 
 ### Dashboard
- - Images from the initial analysis
- - Data (images or report) from the machine learning task
- - At least one interactive element
- - The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
+ - ~~Images from the initial analysis~~
+ - ~~Data (images or report) from the machine learning task~~
+ - ~~At least one interactive element~~
+ - ~~The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:~~
 
 
 -----------------------------------------------------------------------------
