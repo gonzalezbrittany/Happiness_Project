@@ -38,7 +38,7 @@ In SQL view to check how each country was reported in each data set to check for
 **Technologies, languages, tools, and algorithms used throughout the project:**
 
 Languages: PostgreSQL; Python; R
-Tools: PostgreSQL; Tableu; Google Slides; Jupityr Notebook; Slack; Excel
+Tools: PostgreSQL; Tableau; Google Slides; Jupyter Notebook; Slack; Excel
 Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 
 **Slides - Presentation is drafted in google slides:**
@@ -153,7 +153,7 @@ https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/Worl
  - ~~Questions we hope to answer with the data~~
  - ~~Description of the data exploration phase of the project~~
  - ~~Description of the analysis phase of the project~~
- - ~~chnologies, languages, tools, and algorithms used throughout the project~~
+ - ~~Technologies, languages, tools, and algorithms used throughout the project~~
  - ~~**Slides**~~
      * ~~Presentation is drafted in google slides~~
 
