@@ -1,5 +1,13 @@
 #Create multi linear regression Model for Happiness Dataset
 happiness_df <- read.csv(file='happiness_top12_df.csv',check.names=F,stringsAsFactors = F)
 colnames(happiness_df)
-lm(ladder_score ~ healty_life_exp + covid_tests_per_mil +  freedom + social_support + percept_corrupt + log_gdp_per_cap + covid_total_tests + meat_consumption + median_age + generosity + land_area_skm + covid_cases_per_mil, happiness_df)
+my_mod <- lm(ladder_score ~ healty_life_exp + covid_tests_per_mil +  freedom + social_support + percept_corrupt + log_gdp_per_cap + covid_total_tests + meat_consumption + median_age + generosity + land_area_skm + covid_cases_per_mil, happiness_df)
 summary(lm(ladder_score ~ healty_life_exp + covid_tests_per_mil +  freedom + social_support + percept_corrupt + log_gdp_per_cap + covid_total_tests + meat_consumption + median_age + generosity + land_area_skm + covid_cases_per_mil, happiness_df)) #generate summary statistics
+
+
+#Create Dateframe of Pred vs Actual for Confusion Matrix 
+data_mod <- data.frame(Predicted = as.integer(predict(my_mod)), 
+                       Observed = happiness_df$ladder_score)
+
+#Export as CSV file, this file will be used in Pythong to create confusion matrix
+write.csv(data_mod,"C:\\Users\\Brittany\\Desktop\\Class\\Happiness_Project\\Mult_Reg_Predictions2.csv", row.names = FALSE)
