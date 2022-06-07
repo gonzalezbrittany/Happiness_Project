@@ -137,6 +137,11 @@ Dashboard has been created and Published on Tableau Public
  - [Meat Consumption, Median Age, Suicide Rate](https://www.kaggle.com/datasets/daniboy370/world-data-by-country-2020)
  - [Land Use and Density](https://data.world/jst5th/country-population-land-area-density)
  - [Average Screen Time](https://www.comparitech.com/tv-streaming/screen-time-statistics/)
+ 
+**Machine Learning Code Rescources:**
+ - https://statisticsglobe.com/plot-predicted-vs-actual-values-in-r !
+ - https://www.kaggle.com/code/rafjaa/dealing-with-very-small-datasets/notebook
+ - https://www.stackvidhya.com/plot-confusion-matrix-in-python-and-why/ 
 
 ----------------------------------------------------------------------
 -----------------------------------------------------------------------------
