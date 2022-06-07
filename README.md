@@ -168,17 +168,19 @@ Dashboard has been created and Published on Tableau Public
      * Adheres to the time limits provided by instructor
      * Includes speaker notes, flashcards, or a video of the presentation rehearsal
  
-
-
 ### GitHub Repository
  -  **Main Branch**
      *  ~~All code necessary to perform exploratory analysis~~
      *  ~~Some code necessary to complete the machine learning portion of the project~~
+     *  Any images that have been created (at least three)
+     *  Requirements.txt file
      *  ~~All code is production ready~~
  -  **README.md**
-     *  remove description of communication protocols
+     *  ~~remove description of communication protocols~~
      *  ~~Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)~~
+     *  Link to dashboard (or link to video of dashboard demonstration)
      *  ~~Google Slides Link:~~
+     *  Link to Google Slides draft presentation
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
      *  ~~Each team member has at least four commits for the duration of the second segment~~
@@ -187,19 +189,22 @@ Dashboard has been created and Published on Tableau Public
  - ~~Description of data preprocessing~~
  - ~~Description of feature engineering and feature selection, including the decision-making process~~
  - ~~Description of how data was split into training and testing sets~~
- -  ~~Explanation of model choice, including limitations and benefits~~
- -  ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
- -  ~~Description of how they have trained the model thus far, and any additional training that will take place~~
- -  ~~Description of current accuracy score~~
+ - ~~Explanation of model choice, including limitations and benefits~~
+ - ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
+ - ~~Description of how they have trained the model thus far, and any additional training that will take place~~
+ - Description and explanation of model's confusion matrix, including final accuracy score
 
 ### Database Integration
-  <There are no deliverables for the database integration section of the project for this segment.>
+ - ~~Database stores static data for use during the project~~
+ - ~~Database interfaces with the project in some format (e.g., scraping updates the database)~~
+ - ~~Includes at least two tables (or collections, if using MongoDB)~~
+ - ~~Includes at least one join using the database language (not including any joins in Pandas)~~
+ - ~~Includes at least one connection string (using SQLAlchemy or PyMongo)~~
 
 ### Dashboard
  - ~~Images from the initial analysis~~
  - ~~Data (images or report) from the machine learning task~~
  - ~~At least one interactive element~~
- - ~~The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:~~
 
 
 -----------------------------------------------------------------------------
