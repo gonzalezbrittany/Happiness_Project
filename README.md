@@ -143,7 +143,65 @@ Dashboard has been created and Published on Tableau Public
  - https://www.kaggle.com/code/rafjaa/dealing-with-very-small-datasets/notebook
  - https://www.stackvidhya.com/plot-confusion-matrix-in-python-and-why/ 
 
+
 ----------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+## Checklist (Segment 4)
+
+### Presentation
+ - ~~Select Topic~~
+ - ~~Reason for selected topic~~
+ - ~~Description of the source of the data~~
+ - ~~Questions we hope to answer with the data~~
+ - ~~Description of the data exploration phase of the project~~
+ - ~~Description of the analysis phase of the project~~
+ - ~~Technologies, languages, tools, and algorithms used throughout the project~~
+ - Result of the analysis
+ - Recommendation for future analysis
+ - Anything the team would have done differently
+ - **Slides: Presentations are finalized in Google Slides and should include:**
+     * Slides are primarily images or graphics (rather than primarily text).
+     * Images are clear, in high-definition, and directly illustrative of subject matter.
+ - **Live Presentation: The team members deliver the presentation in equal proportions. The live presentation should include the following**
+     * Demonstrates the interactivity of the dashboard in real time
+     * Adheres to the time limits provided by instructor
+     * Includes speaker notes, flashcards, or a video of the presentation rehearsal
+ 
+
+
+### GitHub Repository
+ -  **Main Branch**
+     *  ~~All code necessary to perform exploratory analysis~~
+     *  ~~Some code necessary to complete the machine learning portion of the project~~
+     *  ~~All code is production ready~~
+ -  **README.md**
+     *  remove description of communication protocols
+     *  ~~Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)~~
+     *  ~~Google Slides Link:~~
+ -  **Individual Branches**
+     *  ~~At least one branch for Each team member~~
+     *  ~~Each team member has at least four commits for the duration of the second segment~~
+
+### Machine Learning Model
+ - ~~Description of data preprocessing~~
+ - ~~Description of feature engineering and feature selection, including the decision-making process~~
+ - ~~Description of how data was split into training and testing sets~~
+ -  ~~Explanation of model choice, including limitations and benefits~~
+ -  ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
+ -  ~~Description of how they have trained the model thus far, and any additional training that will take place~~
+ -  ~~Description of current accuracy score~~
+
+### Database Integration
+  <There are no deliverables for the database integration section of the project for this segment.>
+
+### Dashboard
+ - ~~Images from the initial analysis~~
+ - ~~Data (images or report) from the machine learning task~~
+ - ~~At least one interactive element~~
+ - ~~The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:~~
+
+
 -----------------------------------------------------------------------------
 
 ## Checklist (Segment 3)
