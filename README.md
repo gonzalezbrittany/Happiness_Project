@@ -35,13 +35,15 @@ We took several different data sets that reported their data by country and load
 **Description of the analysis phase of the project:**
 In SQL view to check how each country was reported in each data set to check for spelling differences or abbrivations. After identifying the different ways a country was referred to we created a cross reference table that we could join each of the data sets to. Then we combined all the datasets in a view that could be used when creating the machine learning model.
 
-----------------------------------------------------------------------
+**Technologies, languages, tools, and algorithms used throughout the project:**
 
-### Git Hub
+Languages: PostgreSQL; Python; R  
+Tools: PostgreSQL; Amazon RDS; Tableau; Google Slides; Jupyter Notebook; Slack; Excel  
+Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE  
 
+**Slides - Presentation is drafted in google slides:**
+[Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
 
-**Description of the communication protocols:**
-Our team has agreed to use Slack direct messages to communicate.  All members are aware and active on the message string that was created May 5, 2022.
 
 ---------------------------------------------------------------------------
 
@@ -55,18 +57,43 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
  * Missing Region info for countries were researched and added to designated columns in each file. 
  * After all tables were combined into one master dataset table, Jupyter notebook was utilized to determine column NA count. All columns that had over 50% missing      values were removed.
  * All rows still containing missing values in the master dataset table were also removed.
- * Random Forest was used to narrow the total variables down to the top 10 variables that impact happiness scores the most. 
+ * Random Forest was used to narrow the total variables down to the top 12 variables that impact happiness scores the most. 
 
 **Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:**
  * The target for the machine learning model is happiness scores, this is labeled as “ladder_score” in the analysis
- * Random Forest was chosen to narrow down the number of variables to the ten most impactful for happiness scores. 
+ * Random Forest was chosen to narrow down the number of variables to the twelve most impactful for happiness scores. The below were listed as the top twelve.
+  
+
+![image](https://user-images.githubusercontent.com/96347024/171903399-9c1822d3-9c99-4818-ae7c-0034006cd367.png)
+
+
  * For this analysis, three machine learning models were chosen: Multiple Regression, Random Forest, and the decision tree. The goal is to see which model predicts happiness scores accurately while also figuring out which variables are statistically significant in the analysis. 
 
 
 **Description of how data was split into training and testing sets:**
  * Multiple Regression and Random Forest: Default parameters were used to split the data into training and testing sets
+ * Decision Tree: 80% train and 20% test
  
 **Explanation of model choice, including limitations and benefits:**
+
+* Our first attempt to create an accurate predictive model involved the use of the decision tree. At first the default parameters for splitting the data (75% train and 25% test) were used. However, this produced a very low accuracy score. The model was then rerun with splitting the data between 80% train and 20% test. This did increase the accuracy score slightly to 40%, however, this may cause an overfitting issue when running the same predictive model on new data.  For the third attempt at increasing the accuracy for the decisions tree, we used SMOTE to attempt to correct the imbalance in the dataset prior to re-running the model. Model split did not change (80% train and 20% test). This did bring the accuracy score to 58.3%. We still are checking to see if there are any additional ways to bring up the accuracy score for this model.
+
+	![image](https://user-images.githubusercontent.com/26393180/171965722-780aecab-1747-4113-9bf5-716a16b7f994.png)
+
+
+* Since the decision tree shows a very low accuracy score, this may be an indication of a week model due to the dataset being too small. To account for this issue and attempt to strengthen the model, Random Forest was chosen to be our next predictive model. Prior to balancing the data by using SMOTE, the accuracy score was 45.4%. When running SMOTE prior to running the Random Forest model, the accuracy score jumped up to 67.0%. We still are checking to see if there are any additional ways to bring up the accuracy score for this model.
+
+	![image](https://user-images.githubusercontent.com/26393180/171966433-34ddc790-49bd-4e46-90a3-6ab3d2dbed97.png)
+
+* To see if we can find a model that is even more accurate, R was used to create a predictive model using multiple regression. Default perameters were used to split the data between train and test. Our final predictive model for multiple regression shows an accuracy score of 75.8% with five variables being statistically signification: freedom, social_support, percept_corrupt, meat_consumption and generosity. Between the three models, multiple regression is the best predictive model to predict happiness scores.
+
+	![image](https://user-images.githubusercontent.com/26393180/172069204-1831ae81-a433-487b-8b2e-42d0f3b63f26.png)
+	
+	![image](https://user-images.githubusercontent.com/26393180/172069255-93341c0c-5bf5-46d3-b447-3e53885f602d.png)
+
+
+
+	
 
 ------------------------------------------------------------------------------
 
@@ -74,24 +101,30 @@ Our team has agreed to use Slack direct messages to communicate.  All members ar
 
 **Storyboard on a Google Slide(s):**
 
-https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing
+[Google Slides Storyboard](https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing)
 
 
 **Description of the tool(s) that will be used to create the final dashboard:**
 
-Dashboard will be created using Tableau
+Dashboard has been created and Published on Tableau Public
+
+[World Happiness Dashboard](https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/WorldHappiness)
+
+<img width="800" alt="World Happiness" src="https://user-images.githubusercontent.com/96347024/171909393-90ad233f-322b-49c6-a996-49f5066e1214.png">
+
 
 
 **Description of interactive element(s):**
 
--Map will allow users to click and filter additional graphs on the page
--Happiness by Region will allow users to click and see details for that region
--Region Deep Dive will have filter to explore a specific region and or a country within that region
+
+-Filters for Region and Country Name are in the top right of each Dashboard
+
+-Additional Filtering is available on the Map, bar graph and the Ledged of the Scatter plots
 
 
 ---------------------------------------------------------------------------
 
-[Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
+
 
 ---------------------------------------------------------------------------
 
@@ -106,6 +139,53 @@ Dashboard will be created using Tableau
  - [Average Screen Time](https://www.comparitech.com/tv-streaming/screen-time-statistics/)
 
 ----------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+## Checklist (Segment 3)
+
+### Presentation
+ - ~~Select Topic~~
+ - ~~Reason for selected topic~~
+ - ~~Description of the source of the data~~
+ - ~~Questions we hope to answer with the data~~
+ - ~~Description of the data exploration phase of the project~~
+ - ~~Description of the analysis phase of the project~~
+ - ~~Technologies, languages, tools, and algorithms used throughout the project~~
+ - ~~**Slides**~~
+     * ~~Presentation is drafted in google slides~~
+
+### GitHub Repository
+ -  **Main Branch**
+     *  ~~All code necessary to perform exploratory analysis~~
+     *  ~~Some code necessary to complete the machine learning portion of the project~~
+     *  ~~All code is production ready~~
+ -  **README.md**
+     *  remove description of communication protocols
+     *  ~~Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)~~
+     *  ~~Google Slides Link:~~
+ -  **Individual Branches**
+     *  ~~At least one branch for Each team member~~
+     *  ~~Each team member has at least four commits for the duration of the second segment~~
+
+### Machine Learning Model
+ - ~~Description of data preprocessing~~
+ - ~~Description of feature engineering and feature selection, including the decision-making process~~
+ - ~~Description of how data was split into training and testing sets~~
+ -  ~~Explanation of model choice, including limitations and benefits~~
+ -  ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
+ -  ~~Description of how they have trained the model thus far, and any additional training that will take place~~
+ -  ~~Description of current accuracy score~~
+
+### Database Integration
+  <There are no deliverables for the database integration section of the project for this segment.>
+
+### Dashboard
+ - ~~Images from the initial analysis~~
+ - ~~Data (images or report) from the machine learning task~~
+ - ~~At least one interactive element~~
+ - ~~The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:~~
+
+
 -----------------------------------------------------------------------------
 
 ## Checklist (Segment 2)
@@ -133,7 +213,7 @@ Dashboard will be created using Tableau
  - ~~Description of preliminary data preprocessing~~
  - ~~Description of preliminary feature engineering and preliminary feature selection, including the decision-making process~~
  - ~~Description of how data was split into training and testing sets~~
- - Explanation of model choice, including limitations and benefits
+ -  ~~Explanation of model choice, including limitations and benefits~~
 
 ### Database Integration
   - ~~Database stores static data for use during the project~~
@@ -196,4 +276,3 @@ Dashboard will be created using Tableau
 - Conclusion
 - References
 - Team Members
-
