@@ -164,7 +164,7 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
      *  ~~All code necessary to perform exploratory analysis~~
      *  ~~Some code necessary to complete the machine learning portion of the project~~
      *  ~~Any images that have been created (at least three)~~
-     *  Requirements.txt file
+     *  ~~Requirements.txt file~~
      *  ~~All code is production ready~~
  -  **README.md**
      *  ~~remove description of communication protocols~~
