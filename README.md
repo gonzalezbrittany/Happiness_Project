@@ -157,12 +157,12 @@ Dashboard has been created and Published on Tableau Public
  - ~~Description of the data exploration phase of the project~~
  - ~~Description of the analysis phase of the project~~
  - ~~Technologies, languages, tools, and algorithms used throughout the project~~
- - Result of the analysis
- - Recommendation for future analysis
- - Anything the team would have done differently
+ - ~~Result of the analysis~~
+ - ~~Recommendation for future analysis~~
+ - ~~Anything the team would have done differently~~
  - **Slides: Presentations are finalized in Google Slides and should include:**
-     * Slides are primarily images or graphics (rather than primarily text).
-     * Images are clear, in high-definition, and directly illustrative of subject matter.
+     * ~~Slides are primarily images or graphics (rather than primarily text).~~
+     * ~~Images are clear, in high-definition, and directly illustrative of subject matter.~~
  - **Live Presentation: The team members deliver the presentation in equal proportions. The live presentation should include the following**
      * Demonstrates the interactivity of the dashboard in real time
      * Adheres to the time limits provided by instructor
@@ -172,15 +172,15 @@ Dashboard has been created and Published on Tableau Public
  -  **Main Branch**
      *  ~~All code necessary to perform exploratory analysis~~
      *  ~~Some code necessary to complete the machine learning portion of the project~~
-     *  Any images that have been created (at least three)
+     *  ~~Any images that have been created (at least three)~~
      *  Requirements.txt file
      *  ~~All code is production ready~~
  -  **README.md**
      *  ~~remove description of communication protocols~~
      *  ~~Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)~~
-     *  Link to dashboard (or link to video of dashboard demonstration)
+     *  ~~Link to dashboard (or link to video of dashboard demonstration)~~
      *  ~~Google Slides Link:~~
-     *  Link to Google Slides draft presentation
+     *  ~~Link to Google Slides draft presentation~~
  -  **Individual Branches**
      *  ~~At least one branch for Each team member~~
      *  ~~Each team member has at least four commits for the duration of the second segment~~
@@ -192,7 +192,7 @@ Dashboard has been created and Published on Tableau Public
  - ~~Explanation of model choice, including limitations and benefits~~
  - ~~Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)~~
  - ~~Description of how they have trained the model thus far, and any additional training that will take place~~
- - Description and explanation of model's confusion matrix, including final accuracy score
+ - ~~Description and explanation of model's confusion matrix, including final accuracy score~~
 
 ### Database Integration
  - ~~Database stores static data for use during the project~~
