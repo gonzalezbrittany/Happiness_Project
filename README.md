@@ -99,15 +99,6 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 
 ### Dashboard
 
-**Storyboard on a Google Slide(s):**
-
-[Google Slides Storyboard](https://docs.google.com/presentation/d/1Ko_ZfZzVwHrFdawHIv6q_K8g7W08cQ5EWS1CUCs4c8I/edit?usp=sharing)
-
-
-**Description of the tool(s) that will be used to create the final dashboard:**
-
-Dashboard has been created and Published on Tableau Public
-
 [World Happiness Dashboard](https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/WorldHappiness)
 
 <img width="800" alt="World Happiness" src="https://user-images.githubusercontent.com/96347024/171909393-90ad233f-322b-49c6-a996-49f5066e1214.png">
