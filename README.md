@@ -1,28 +1,12 @@
 # Happiness Project
 
-
-**Project Outline:**
-
-
-## Requirements
-
------------------------------------------------------------------------
-### Presentation
-
-
 **Topic:** World Happiness Report 2021
-
-
-**Reason why we selected our topic:**  
-Our team explored various data sets such as Olympic data, Zillow housing data, NBA player statistics and the World Happiness data.  
-
-As we chatted about what insights we could gain from the analysis we decided the features and information available within the World Happiness data was what we wanted to explore.
 
 **Description of source data:**
 The World Happiness Report 2021 focuses on how people all over the world have coped with the effects of COVID-19.  The data set has two focuses, first the effects of COVID-19 on the structure and quality of people’s lives, and second to describe and evaluate how governments all over the world have dealt with the pandemic. The purpose of the data is to help to try and explain why some countries have done better than others.
 
 
-**Questions they hope to answer with the data:**
+**Questions we hope to answer with the data:**
 By applying the most advanced techniques of Machine Learning, it would be possible to define the most important factors and measure quantitatively their contribution to one’s happiness.
 
 Our team is hoping to apply advanced techniques with Machine Learning to define the most important factors to measure and compare and enhance countries happiness scores.
@@ -40,9 +24,6 @@ In SQL view to check how each country was reported in each data set to check for
 Languages: PostgreSQL; Python; R  
 Tools: PostgreSQL; Amazon RDS; Tableau; Google Slides; Jupyter Notebook; Slack; Excel  
 Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE  
-
-**Slides - Presentation is drafted in google slides:**
-[Presentation Draft](https://docs.google.com/presentation/d/1FTfu_1N8J6h3-7x8WgbGIEKKDn-arSCbyVsIBhNfVoQ/edit?usp=sharing)
 
 
 ---------------------------------------------------------------------------
@@ -95,29 +76,6 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 
 	
 
-------------------------------------------------------------------------------
-
-### Dashboard
-
-[World Happiness Dashboard](https://public.tableau.com/app/profile/christina.elenbaas/viz/Happiness_AWS/WorldHappiness)
-
-<img width="800" alt="World Happiness" src="https://user-images.githubusercontent.com/96347024/171909393-90ad233f-322b-49c6-a996-49f5066e1214.png">
-
-
-
-**Description of interactive element(s):**
-
-
--Filters for Region and Country Name are in the top right of each Dashboard
-
--Additional Filtering is available on the Map, bar graph and the Ledged of the Scatter plots
-
-
----------------------------------------------------------------------------
-
-
-
----------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------
 
@@ -134,27 +92,3 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
  - https://www.kaggle.com/code/rafjaa/dealing-with-very-small-datasets/notebook
  - https://www.stackvidhya.com/plot-confusion-matrix-in-python-and-why/ 
 
-
-----------------------------------------------------------------------
------------------------------------------------------------------------------
-
-
-
-
-## Final Deliverable Outline
-- Project Overview
-- Usage and installation instructions of libraries/tools that are used
-- Intro (business question and motivation)
-- Group by world geographic regions: 
-	* Which region had the highest happiness scores overall during 2021? (Bar Graph?)
-	* What variables have the strongest impact on happiness scores for each region? (correlation plot)
-	* How has the happiness score changed overtime for each region? (plot mean, maybe line plot?)
-  	* Is there a way to predict happiness scores based on the 7 variables provided? If so, what model can be used to accurately predict happiness? (Try Multiple Regression, Decision Tree and Random Forest) 
-- Data pre-processing/gathering steps (cleaning and manipulation)
-- Visuals and explanations
-- Machine Learning / Deep Learning Modeling
-- Additional explanations
-- Major findings
-- Conclusion
-- References
-- Team Members
