@@ -79,7 +79,7 @@ Since our machine learning model showed the multiple regression model was best a
 
 [Happiness Scores Analsyis Dashboard](https://public.tableau.com/authoring/HappinessScoresAnalysis/Freedomvs_HappinessScorePlot#1) 
 
-<img width="400" alt="Happiness Scores Analysis" src="https://raw.githubusercontent.com/gonzalezbrittany/Happiness_Project/main/Data/Screenshot%202022-06-30%20201248.png">
+<img width="600" alt="Happiness Scores Analysis" src="https://raw.githubusercontent.com/gonzalezbrittany/Happiness_Project/main/Data/Screenshot%202022-06-30%20201248.png">
 
 After analyzing our plots, it is clear the multiple regression model is best because of the linear relationships between the predictors and happiness scores. 
 
