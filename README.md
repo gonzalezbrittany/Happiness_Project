@@ -24,7 +24,7 @@ In SQL view to check how each country was reported in each data set to check for
 **Technologies, languages, tools, and algorithms used throughout the project:**
 
 Languages: PostgreSQL; Python; R  
-Tools: PostgreSQL; Amazon RDS; Tableau; Google Slides; Jupyter Notebook; Slack; Excel  
+Tools: PostgreSQL; Amazon RDS; Tableau; Jupyter Notebook; Excel  
 Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE  
 
 
@@ -74,9 +74,20 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 	
 	![image](https://user-images.githubusercontent.com/26393180/172069255-93341c0c-5bf5-46d3-b447-3e53885f602d.png)
 
+---------------------------------------------------------------------------
+** Correlation Plots**
 
 
-	
+![image](https://user-images.githubusercontent.com/26393180/176801608-da30a24e-ef7e-48f9-88e7-85d619e4a5af.png)
+
+(https://public.tableau.com/authoring/HappinessScoresAnalysis/Freedomvs_HappinessScorePlot#1) 
+
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+
+[Happiness Scores Analsyis Dashboard](https://public.tableau.com/authoring/HappinessScoresAnalysis/Freedomvs_HappinessScorePlot#1) 
+
+<img width="800" alt="World Happiness" src="![image](https://user-images.githubusercontent.com/26393180/176801608-da30a24e-ef7e-48f9-88e7-85d619e4a5af.png)">
+
 
 
 ---------------------------------------------------------------------------
