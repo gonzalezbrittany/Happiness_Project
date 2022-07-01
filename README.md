@@ -2,6 +2,8 @@
 
 **Topic:** World Happiness Report 2021
 
+[link to dashboard](https://public.tableau.com/app/profile/brittany5484/viz/HappinessSoresAnalysis/Freedomvs_HappinessScorePlot#1)
+
 **Description of source data:**
 The World Happiness Report 2021 focuses on how people all over the world have coped with the effects of COVID-19.  The data set has two focuses, first the effects of COVID-19 on the structure and quality of people’s lives, and second to describe and evaluate how governments all over the world have dealt with the pandemic. The purpose of the data is to help to try and explain why some countries have done better than others.
 
