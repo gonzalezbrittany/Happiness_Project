@@ -75,7 +75,7 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 ---------------------------------------------------------------------------
 **Correlation Plots**
 
-Since our machine learning model showed the multiple regression model was best at predicting happiness scores, we took a deeper dive in analyzing the correlations for the predictors that showed significance. The hyperlink below is an interactive dashboard that shows the correlations between happiness scores and the five significate predictors discovered in our multiple regression analysis. The hyperlink also includes an interactive world map, this allows quick access to data for different countries across the world. 
+Since our machine learning model showed the multiple regression model was best at predicting happiness scores, we took a deeper dive in analyzing the correlations for the predictors that showed significance. The hyperlink below is an interactive dashboard that shows the correlations between happiness scores and the five significate predictors discovered in our multiple regression analysis. The hyperlink also includes an interactive world map, this allows quick access to data for different countries from around the world. 
 
 [Happiness Scores Analsyis Dashboard](https://public.tableau.com/authoring/HappinessScoresAnalysis/Freedomvs_HappinessScorePlot#1) 
 
