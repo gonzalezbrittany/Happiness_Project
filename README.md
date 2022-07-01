@@ -80,7 +80,7 @@ Algorithms: Decision Tree; Random Forest; Multiple Regression; SMOTE
 
 [Happiness Scores Analsyis Dashboard](https://public.tableau.com/authoring/HappinessScoresAnalysis/Freedomvs_HappinessScorePlot#1) 
 
-<img width="400" alt="Happiness Scores Analysis" src="https://raw.githubusercontent.com/gonzalezbrittany/Happiness_Project/main/Data/Screenshot%202022-06-30%20200512.jpg">
+<img width="400" alt="Happiness Scores Analysis" src="https://raw.githubusercontent.com/gonzalezbrittany/Happiness_Project/main/Data/Screenshot%202022-06-30%20201248.png">
 
 
 
