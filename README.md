@@ -2,8 +2,6 @@
 
 **Topic:** World Happiness Report 2021
 
-[link to dashboard](https://public.tableau.com/authoring/HappinessScoresAnalysis/Freedomvs_HappinessScorePlot#1)
-
 **Description of source data:**
 The World Happiness Report 2021 focuses on how people all over the world have coped with the effects of COVID-19.  The data set has two focuses, first the effects of COVID-19 on the structure and quality of people’s lives, and second to describe and evaluate how governments all over the world have dealt with the pandemic. The purpose of the data is to help to try and explain why some countries have done better than others.
 
@@ -85,7 +83,26 @@ Since our machine learning model showed the multiple regression model was best a
 
 After analyzing our plots, it is clear the multiple regression model is best because of the linear relationships between the predictors and happiness scores. 
 
+---------------------------------------------------------------------------
+### Results of Analysis
 
+- Happier countries had...
+	- High freedom scores
+	- Consumed more meat
+	- High social support
+	- Higher median age
+- Surprises
+	- Generosity didn't seem to have much correlation with happiness
+
+---------------------------------------------------------------------------
+### Recommendations for future analysis
+
+- We could explore additional machine learning models
+- Additional data sets:
+	- Average nightly hours of sleep
+	- Literacy rates
+	- Pet ownership percentages
+	- Social media adoption
 
 ---------------------------------------------------------------------------
 
