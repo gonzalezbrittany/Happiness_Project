@@ -91,6 +91,7 @@ After analyzing our plots, it is clear the multiple regression model is best bec
 	- Consumed more meat
 	- High social support
 	- Higher median age
+	- Low perception of corruption 
 - Surprises
 	- Generosity didn't seem to have much correlation with happiness
 
